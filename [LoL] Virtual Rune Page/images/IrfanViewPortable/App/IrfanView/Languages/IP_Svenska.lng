@@ -1,0 +1,176 @@
+[FileInfo]
+TranslatorName=Leif Larsson och Ivar Edlund
+LanguageName=svenska
+TargetVersion=0.4.12.*
+
+[General]
+1001=Markör
+1002=Pensel
+1003=Radergummi
+1004=Stämpel
+1005=Ersätt färg
+1006=Text
+1007=Linje
+1008=Pil
+1009=Ellips
+1010=Rektangel
+1011=Fyll
+1012=Hämta färg
+1013=Räta upp/Vrid bild
+1014=Mätverktyg
+1015=Inställningar för penna och pensel
+1016=Utökad hjälptext
+1017=Om ...
+2001=Markeringsverktyget är till för normal användning\ni IrfanView, till exempel för att skapa markeringar.
+2002=Pensel:\nVänster musknapp målar med förgrundsfärgen.\nHöger musknapp målar med bakgrundsfärgen.
+2003=Radergummi:\nVänster musknapp suddar med bakgrundsfärgen.\nHöger musknapp suddar och återställer originalbilden.
+2004=Stämpeln kopierar en del av en bild till ett annat område.\nDen kan användas för att ta bort damm och repor från ett foto.\nHögerklicka för att välja källa; vänsterklicka sedan där du vill börja klona.
+2005=Ersätter en färg med en annan.\nMåla med höger musknapp för att ersätta\nförgrundsfärgen med bakgrundsfärgen.
+2006=Med det här verktyget kan du skriva in formaterad text i bilden.\nTextmarkörens hårkors anger skrivraden för den infogade texten.\nTexten kan vänsterjusteras, högerjusteras eller centreras.
+2007=Ritar linjer: klicka och dra, släpp sedan musknappen.\nAvbryt med höger musknapp.\nCtrl nertryckt centrerar linjen vid startpunkten.\nSkift nertryckt ritar linjer i multiplar av 45°.
+2008=Ritar pilar: klicka och dra, släpp sedan musknappen.\nAvbryt med höger musknapp.\nCtrl nertryckt centrerar pilen vid startpunkten.\nSkift nertryckt ritar pilar i multiplar av 45°.\nHögerklicka på knappen för att komma till Inställningar för pilar.
+2009=Ritar ellipser och cirklar.\nValet Fyll ovanför färgpaletten bestämmer om de blir fyllda eller ofyllda.\nKlicka och dra för att rita; släpp musknappen för att avsluta.\nAvbryt med höger musknapp.\nCtrl nertryckt centrerar ellipsen i startpunkten.\nSkift nertryckt ritar cirklar.
+2010=Ritar rektanglar och kvadrater.\nValet Fyll ovanför färgpaletten bestämmer om de blir fyllda eller ofyllda.\nKlicka och dra för att rita; släpp musknappen för att avsluta.\nAvbryt med höger musknapp.\nCtrl nertryckt centrerar rektangeln i startpunkten.\nSkift nertryckt ritar kvadrater.
+2011=Med verktyget Fyll kan du fylla områden med en enda färg.\nVänster musknapp fyller området med förgrundsfärgen.\nHöger musknapp fyller området med bakgrundsfärgen.
+2012=Pipett:\nVälj förgrundsfärg med vänster musknapp.\nVälj bakgrundsfärg med höger musknapp.\nHåll ner Skift om du inte vill återgå till\nföregående verktyg.
+2013=Med verktyget Räta upp/Vrid bild kan du räta upp en bild.\nDra en linje som markerar horisontal- el. vertikalriktningen.\nAvbryt med höger musknapp.\nCtrl nertryckt centrerar linjen vid startpunkten.\nSkift nertryckt ritar upp linjen i multiplar av 45°.
+2014=Med Mätverktyget kan du mäta avstånd och vinklar.\nKlicka och dra för att välja vad du vill mäta.\nVinklar anges i förhållande till en horisontell linje.\nAvbryt med höger musknapp.\nCtrl nertryckt medan du drar centrerar linjen på startpunkten.\nSkift nertryckt ritar upp linjen i multiplar av 45°.\nHögerklicka på knappen för att komma till Inställningar för måttenheter. Där kan du definiera nya måttenheter samt redigera, ta bort och sortera dem.
+2015=Inställningar för penna och pensel
+2016=Kortfattad hjälptext
+2017=Om ...
+5000=Hjälp
+5201=Innan du använder stämpeln måste du ange en startpunkt (högerklicka på den).\nAktivera Utökad hjälptext och läs igenom texten angående stämpeln.
+5101=Denna plug-in fungerar inte på Windows 95, 98 och ME.
+5102=Kan inte spara inställningarna; kontrollera att i_view32.ini inte är skrivskyddad.
+1443=Förgrund
+1444=Bakgrund
+5301="%what%" är inte ett giltigt tal.
+5302=Fälten kan inte vara tomma.
+1101=Översatt till %language% av\n%translator%
+1651=Namn
+1652=Symbol
+1653=Definition
+1654=Är det säkert att du vill ta bort den markerade måttenheten?
+1655=Bekräfta borttagning
+7001=standardenhet
+7002=n.d.
+7003=DPI inte angiven
+7011=tum
+7012=pixel
+7013=grad
+7014=millimeter
+5000=Fel
+
+[100]
+0=Paint
+1060=Verktygsfält för IrfanPaint
+1053=Bredd (px)
+1059=Fyll
+1056=Tolerans:
+
+[101]
+0=Om IrfanPaint
+1=OK
+1102=Text
+1104=&Besök IP:s webbplats ...
+
+[102]
+0=Färgval
+1=OK
+2=Avbryt
+
+[103]
+0=Inställningar för pilar
+1=OK
+2=Avbryt
+1301=&1:a spetsen
+1311=Rita:
+1302=&2:a spetsen
+1309=Bredd:
+1310=Längd:
+1308=&Öppen spets
+
+[104]
+0=Inställningar för penna och pensel
+1442=Penna
+1441=Pensel
+1=OK
+2=Avbryt
+1432=Utseende:
+1404=_______
+1405=_ _ _ _ _
+1406=. . . . . .
+1407=_ . _ . _ .
+1408=_ . . _ . .
+1433=Avslut:
+1410=Runda
+1411=Fyrkant.
+1412=Platta
+1434=Hörn:
+1413=Runda
+1414=Fasade
+1415=Spetsiga
+1416=Fylld
+1417=-- (horisontellt)
+1418=|| (vertikalt)
+1419=\\\\ (neråt)
+1420=// (uppåt)
+1421=++ (rätvinkligt)
+1422=xx (diagonalt)
+1435=Heldragen
+1437=45° vänster- högerstreckad
+1438=Korsstreckad
+1436=Streckad
+1439=Färg:
+1440=Sekundärfärg
+1426=Transparent
+1429=spc = 1px spc\r\ndot = 1 endcap
+1431=Klicka i panelen ovan för att skifta\nför- och bakgrundsinställningarna.
+1445=Penntjocklek
+1448=pixlar (1-9999)
+
+[105]
+0=Infoga text
+1501=&Teckensnitt:
+1502=&Storlek:
+1506=&Fet
+1507=&Kursiv
+1508=&Understruken
+1509=&Genomstruken
+1510=&Vänsterjustera
+1511=&Centrera
+1512=&Högerjustera
+1=OK
+2=Avbryt
+1526=T&ryck för förhandsgranskning
+1513=Välj &färg ...
+1521=Återge som
+1522=T&om kontur
+1524=T&ext
+1523=&Fylld kontur
+1525=&Kantutjämnad text
+
+[106]
+0=Måttenheter
+1602=&Stäng
+1603=Flytta &upp
+1604=Flytta &ner
+1605=&Grundenhet
+1606=&Lägg till ...
+1607=&Redigera ...
+1608=&Ta bort
+
+[107]
+0=Redigera måttenhet
+1701=Namn:
+1703=Symbol:
+1705=Definition:
+1706=1 %unitsymbol% =
+1=OK
+2=Avbryt
+
+[108]
+0=Resultat
+1=OK
+1803=&Ny enhet ...
+1802=&Kopiera

@@ -1,0 +1,197 @@
+;Language file template generated on Wed, 28 Jul 2010 19:20:11 GMT by IPLFGen by Matteo Italia - v. 0.1.4.7
+;=== FILE STRUCTURE ===
+;The language file contains a [FileInfo] section, a [General] section and some numbered sections (e.g. [101], [102], ...)
+;The [FileInfo] sections contains informations about the translator, the language name and the target IrfanPaint version.
+;In the TargetVersion value you can insert a * so that the comparison between the TargetVersion and the IrfanPaint version stop there.
+;For example, if you want to make the language file work with all the 0.4.11 builds, just insert 0.4.11.*; be careful, always insert the asterisk after a dot.
+;The [General] section contains the strings of the string table; they are usually strings that are displayed in error messages, tooltips, ...
+;Each numbered section contains the strings of a dialog; the strings numbers are the IDs of the controls in which they will be displayed.
+;The 0 string is the title of the dialog.
+;=== ACCELERATORS ===
+;The & symbol is put before the accelerator letter; for example if you find a &Bold it means that the button that contains that text can be pressed also pressing ALT+B.
+;You can change the accelerator letter (e.g. in Italian &Italic becomes &Corsivo), but be careful: the accelerators of the same dialog must not conflict.
+;=== ESCAPE SEQUENCES ===
+;The recognised escape sequences are:
+;   \n      newline          (ASCII 0x0A)
+;   \r      carriage return  (ASCII 0x0D)
+;   \\      backslash        (ASCII 0x5C)
+;Unrecognized escape sequences are treated as left as they are.
+;In most of controls to make a new line you need to insert a \r\n.
+;=== PLACEHOLDERS ===
+;Text enclosed between two "%" is a placeholder for something else that will be put there at runtime.
+;You can move the placeholder where you want in the string, so you'll be able to arrange the sentence as you like more.
+;These text placeholders are specific of each string; you cannot use the placeholders of a string in another.
+;The placeholders names are usually self-descriptive. Anyway, here's a list of the currently used placeholders:
+;   %translator%    Translator name as stated in the [FileInfo]\TranslatorName key.
+;   %language%      Language name as stated in the [FileInfo]\LanguageName key.
+;=== COMMENTS ===
+;If a row begins with a ; it is a comment; it is completely ignored by the parser.
+;You can put any comment you want, but all the comments will be stripped out when the file will be distributed to reduce file size unless you ask to keep them.
+;It is very appreciated if you strip out all the comments (including these that you are reading now) by yourself. Thank you!
+;=== MISC ===
+;If you do not translate a string it will remain untranslated in the interface, no error message (like "incomplete language file") will be issued.
+[FileInfo]
+TranslatorName=alan@stable
+LanguageName=正體中文
+TargetVersion=0.4.13.*
+[General]
+1001=箭頭
+1002=筆刷
+1003=橡皮擦
+1004=複製
+1005=色彩取代
+1006=文字工具
+1007=直線
+1008=箭頭線
+1009=橢圓
+1010=矩形
+1011=填滿
+1012=滴管
+1013=延展/旋轉圖像工具
+1014=度量工具
+1015=筆刷設定
+1016=詳細內容說明
+1017=關於...
+2001=選擇工具是 IrfanView 的一般使用，例如建立選取區域。
+2002=筆刷用來自由繪製。\n按一下滑鼠左鍵並拖曳以繪製前景色。\n按一下滑鼠右鍵並拖曳以繪製背景色。
+2003=橡皮擦用來自由刪除。\n按一下滑鼠左鍵並拖曳以背景色刪除。\n按一下滑鼠右鍵並拖曳以刪除還原原始圖像。
+2004=複製工具複製圖像的一部分到另一個區域。\n它可用來從照片刪除灰塵與割痕。\n按一下右鍵以選擇來源， 然後在您要開始取代的位置按一下左鍵。
+2005=色彩取代用來以另一個色彩取代。\n按一下滑鼠左鍵並拖曳以前景色取代背景色。\n按一下滑鼠右鍵並拖曳以背景色取代前景色。
+2006=文字工具在圖像加入格式化的文字。\n文字游標的十字將是插入文字的基礎線。\n文字將在插入點靠左、靠右或置中對齊。
+2007=直線工具繪製筆直線。\n按一下並拖曳以定義直線。 放開滑鼠鍵來繪製。\n要中止直線，按下滑鼠右鍵。\n拖曳時按住 CTRL 以開始點為中心繪製直線。\n拖曳時按住 SHIFT 以 45 度角的倍數約束直線。
+2008=箭頭線工具繪製箭頭。\n按一下並拖曳以定義箭頭。 放開滑鼠鍵來繪製。\n要中止箭頭，按下滑鼠右鍵。\n拖曳時按住 CTRL 以開始點為中心繪製箭頭。\n拖曳時按住 SHIFT 以 45 度角的倍數約束箭頭。\n在這個按鈕按一下右鍵以開啟 "箭頭設定" 對話方塊。
+2009=橢圓工具用來繪製圓形與橢圓形。 如果勾選色彩樣式上方的填滿按鈕，它將會是實心。\n按一下並拖曳以定義橢圓。 放開滑鼠鍵來繪製。\n要中止橢圓，按下滑鼠右鍵。\n拖曳時按住 CTRL 以開始點為中心繪製橢圓。\n拖曳時按住 SHIFT 繪製圓形。
+2010=矩形工具用來繪製正方形與矩形。  如果勾選色彩樣式上方的填滿按鈕，它將會是實心。\n按一下並拖曳以定義矩形。 放開滑鼠鍵來繪製。\n要中止矩形，按下滑鼠右鍵。\n拖曳時按住 CTRL 以開始點為中心繪製矩形。\n拖曳時按住 SHIFT 繪製正方形。
+2011=填滿工具用來以一個色彩填滿區域。\n按一下滑鼠左鍵以前景色填滿區域。\n按一下滑鼠右鍵以背景色填滿區域。
+2012=滴管工具用來從圖像選取色彩。\n在色彩按一下滑鼠左鍵以挑選前景色。\n在色彩按一下滑鼠右鍵以挑選背景色。\n按著 SHIFT 鍵並按一下這個按鈕以停用自動返回前一個工具。
+2013=拉直/旋轉工具用來拉直圖像。\n在必須成為水平或垂直的圖像部分按一下並拖曳繪製「底線」。\n要中止直線，按下滑鼠右鍵。\n拖曳時按住 CTRL 以開始點為中心繪製直線。\n拖曳時按住 SHIFT 以 45 度角的倍數約束直線。
+2014=以度量工具您可以測量圖像的距離與角度。\n按一下並拖曳以選取測量的距離。\n所有角度測量與水平線相關。\n要中止直線，按下滑鼠右鍵。\n拖曳時按住 CTRL 以開始點為中心繪製直線。\n拖曳時按住 SHIFT 以 45 度角的倍數約束直線。\n在這個按鈕按一下右鍵以開啟 "度量單位" 對話方塊，在此您可以定義新的度量單位並編輯、刪除與排序目前的單位。
+2015=顯示筆和刷子設定值對話方塊
+2016=簡短內容說明
+2017=顯示 IrfanPaint 的版本資訊
+5201=使用複製工具前，您必須設定來源點 (以右鍵按一下它)。\n啟用詳細內容?明並讀取複製工具提示，以取得更多的資訊。
+5102=無法儲存設定值; 請檢查 i_view32.ini 是否可寫入。
+6001=特別感謝:\r\n\r\nIrfan Skiljan，IrfanView 的開發者， 花時間編輯使 IrfanPaint 動作，提供我許多有用的建議並且總是非常可用。\r\n\r\nIrfanView 支援論壇的使用者，特別是:\r\nBhikkhu Pesala，他們撰寫詳盡的工具提示與?明頁、報告錯誤、協助我追蹤問題且給予許多意見。\r\nMatera，他來自世界的另一端，讓我透過撥號連線經由 VPN 在他的電腦遠端除錯追縱 Bug; 嘗試失敗，但他已是壯舉。\r\nSteve, 論壇管理員。\r\n\r\n所有 Beta 測試者，特別是 Leon Fisk，他回報我 IrfanPaint 在 Windows NT 4 的所有問題。\r\n\r\nDavide Pizzolato 與他的偉大 CxImage 程式庫 (http://www.codeproject.com/KB/graphics/cximage.aspx)，我從中取用部分的代碼。\r\n\r\nLode Vandevenne 他有效實施與堆疊的掃描線 floodfill 演算法 (http://student.kuleuven.be/~m0216922/CG/floodfill.html)，我適用在 IrfanPaint。\r\n\r\nCodeProject.com 與他的偉大文章，許多時候幫助我。\r\n\r\n所有翻譯者。\r\n\r\n所有捐獻者: 感謝您!
+1443=前景
+1444=背景
+5301="%what%" 不是有效數字。
+5302=欄位不能為空。
+1101=%language% 由 %translator% 翻譯
+1651=名稱
+1652=符號
+1653=定義
+1654=您確定要刪除目前選取的度量單位嗎?
+1655=刪除確認
+7001=預設單位
+7002=n.d.
+7003=DPI 未設定
+7011=英吋
+7012=像素
+7013=度
+7014=公釐
+5000=錯誤
+[101]
+0=關於 IrfanPaint
+1=確定
+1102=文字
+1104=訪問 IrfanPaint 網站(&V)
+[100]
+0=繪畫
+1060=IrfanPaint 工具列
+1053=寬度 (像素)
+1059=填滿
+1056=容許度:
+[103]
+0=箭頭設定值
+1=確定
+2=取消
+1301=第一個箭頭(&F)
+1311=繪製:
+1302=第二個箭頭(&S)
+1309=箭頭寬度:
+1310=箭頭長度:
+1308=開放箭頭
+[102]
+0=色彩選取
+1=確定
+2=取消
+[104]
+0=筆刷設定
+1442=筆
+1441=刷子
+1=確定
+2=取消
+1432=樣式:
+1404=_______
+1405=_ _ _ _ _
+1406=. . . . . .
+1407=_ . _ . _ .
+1408=_ . . _ . .
+1433=終點:
+1410=圓形
+1411=方形
+1412=扁平
+1434=直線接點:
+1413=圓形
+1414=浮凸
+1415=斜接
+1416=實線
+1417=- (水平)
+1418=|| (垂直)
+1419=\\\\ (右斜)
+1420=//  (左斜)
+1421=+ (正交線)
+1422=x (對角線)
+1435=實線
+1437=45 度左到右影線
+1438=交叉影線
+1436=直影線
+1439=色彩
+1445=筆寬
+1448=像素 (1-9999)
+1440=影線次要色彩
+1426=透明
+1429=spc = 1像素 spc\r\n點 = 1 終點
+1431=按一下上方預覽窗格以交換 前景和背景樣式。
+[105]
+0=插入文字
+1501=字型名稱(&N):
+1502=大小(&S):
+1506=粗體(&B)
+1507=斜體(&I)
+1508=底線(&U)
+1509=刪除線(&S)
+1510=靠左對齊(&E)
+1511=置中對齊(&C)
+1512=靠右對齊(&R)
+1=確定
+2=取消
+1526=按住預覽(&P)
+1513=選取色彩(&C)...
+1521=轉譯成
+1522=清空路徑
+1524=文字
+1523=填滿路徑
+1525=消除鋸齒的文字
+[106]
+0=度量單位
+1602=關閉(&C)
+1603=上移(&U)
+1604=下移(&D)
+1605=絕對值(&B)
+1606=加入(&A)...
+1607=編輯(&E)...
+1608=移除(&R)
+[107]
+0=編輯度量單位
+1701=名稱:
+1703=符號:
+1705=定義:
+1706=1 %unitsymbol% =
+1=確定
+2=取消
+[108]
+0=測量結果
+1=確定
+1803=新單位(&N)...
+1802=複製(&C)
