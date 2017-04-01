@@ -1,10 +1,4 @@
-﻿; Nam: Ragnarok Onlin Smart Cast ( Self-Cast / Macro / Chain Macro )
-; AutoHotkey Version:  Autohotkey_L
-; Platform:       Windows Only
-; Author:        Recca
-; Description: A self-cast script  with smart macro for Ragnarok Online 
-; /camera to turn off CAMERA SMOOTH for more accurate Self-Cast
-; SEE "http://ragindex.blogspot.com" FOR MORE INFORMATION
+﻿
 #NoEnv 
 SendMode Input
 SetWorkingDir %A_ScriptDir%

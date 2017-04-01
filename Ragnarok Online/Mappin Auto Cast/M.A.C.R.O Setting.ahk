@@ -1,9 +1,4 @@
-﻿;
-; AutoHotkey Version: 1.x
-; Language:       English
-; Platform:       Win9x/NT
-; Author:         Recca - ragnarok.index@gmail.com
-;
+﻿
 if not A_IsAdmin
 {
    Run *RunAs "%A_ScriptFullPath%"
