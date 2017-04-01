@@ -1,8 +1,8 @@
 # Autohotkey scripts for Ragnarok Online
 blog: [http://ragindex.blogspot.com](http://ragindex.blogspot.com)
 
-1. Auto Potion - watch HP & MP and use potion
-2. Mappin Auto Cast - customizable gaming macros
-3. Raingdex - game mob & item search engine
+1. **Auto Potion** - watch HP & MP and use potion
+2. **Mappin Auto** Cast - customizable gaming macros
+3. **Raingdex** - game mob & item search engine
 
 These applications are no longer supported by me.
