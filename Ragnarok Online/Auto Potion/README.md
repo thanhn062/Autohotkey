@@ -8,4 +8,4 @@ Left Mouse Button - Identify HP bar
 Right Mouse Button - Identify SP Bar
 
 ### Picture
-![GUI](https://github.com/thanhn062/Autohotkey/blob/master/Auto%20Potion/ROAP.png?raw=true "Auto Pot GUI")
+![GUI](https://github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Auto%20Potion/ROAP.png?raw=true "Auto Pot GUI")
