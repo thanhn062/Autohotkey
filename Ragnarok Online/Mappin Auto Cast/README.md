@@ -24,20 +24,20 @@ I will use the button **F1** and **100ms** delay for all the macro examples belo
 
 1. **Skill Macro**
 Note: good for smart casting abilities that let you pick a target.
-![SM]https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/SpamMacro.bmp?raw=true "Spam Macro")
+![SM](https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/SpamMacro.bmp?raw=true "Spam Macro")
 Function: When F1 press, Loop(F1 -> click -> wait 100ms) until F1 release
 
 2. **Usable Macro**
 Note: good for using potions.
-![SM]https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/Usable.bmp?raw=true "Usable Macro")
+![UM](https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/Usable.bmp?raw=true "Usable Macro")
 Function: When F1 press, Loop(F1 -> wait 100ms) until F1 release
 
 3. **Chain Macro**
 Note: press a chain of buttons with delay of your choice. "Q, W, E"
-![SM]https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/Chain.bmp?raw=true "Chain Macro")
+![CM](https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/Chain.bmp?raw=true "Chain Macro")
 Function: When F1 press, Loop(Q -> wait 100ms -> W -> wait 30ms -> E -> wait 200ms) until F1 release
 
 4. **Self Cast**
 Note: Cast at self / center of screen
-![SM]https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/SelfCast.bmp?raw=true "Self Cast Macro")
-Function: When double press F1, 
+![SC]https://raw.github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/Mode/SelfCast.bmp?raw=true "Self Cast Macro")
+Function: When double press F1, cast at yourself
