@@ -1,6 +1,6 @@
 # Autohotkey
 
-A collection of *.ahk scripts written by me.
+A collection of my ahk scripts.
 
 * Mark Ur List - Another list/reminder.
 * Ragnarok Online - AHK scripts to assist game play
