@@ -8,4 +8,4 @@ M.A.C.R.O.ahk - Read from 'M.A.C.R.O.ini' and assign macro to keyboard buttons
 I seperated the script here to maximize in-game performance.
 
 Picture
-(https://s19.postimg.io/bly1ptpkj/macro_demo.png)
+![GUI](https://s19.postimg.io/bly1ptpkj/macro_demo.png)
