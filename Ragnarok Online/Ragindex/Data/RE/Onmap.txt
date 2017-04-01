@@ -1,0 +1,5267 @@
+1001#
+moc_fild18 (140)
+moc_fild11 (30)
+#
+1002#
+prt_fild08 (140)
+prt_fild08a (140)
+prt_fild08b (140)
+prt_fild08c (140)
+prt_fild08d (140)
+gef_fild00 (30)
+pay_fild01 (30)
+prt_fild01 (30)
+prt_fild06 (30)
+pay_fild03 (25)
+#
+1004#
+prt_fild05 (140)
+mjolnir_09 (30)
+new_4-3 (5)
+new_5-3 (5)
+#
+1005#
+moc_pryd01 (50)
+mjo_dun01 (30)
+anthell01 (20)
+anthell02 (20)
+prt_sewb3 (20)
+orcsdun01 (15)
+pay_dun00 (15)
+prt_sewb1 (10)
+prt_sewb2 (10)
+#
+1007#
+prt_fild06 (140)
+pay_fild03 (130)
+prt_fild08 (40)
+prt_fild08a (40)
+prt_fild08b (40)
+prt_fild08c (40)
+prt_fild08d (40)
+gef_fild00 (30)
+pay_fild01 (30)
+prt_fild01 (30)
+#
+1008#
+gef_fild07 (130)
+pay_fild03 (20)
+prt_maze01 (5)
+#
+1009#
+moc_fild11 (30)
+moc_fild12 (30)
+moc_fild18 (30)
+#
+1010#
+pay_fild01 (140)
+mjolnir_09 (30)
+pay_fild03 (25)
+new_4-3 (15)
+new_5-3 (15)
+new_2-3 (10)
+new_3-3 (10)
+#
+1011#
+gef_fild00 (140)
+moc_fild07 (30)
+gef_fild04 (25)
+gef_fild07 (20)
+new_2-3 (10)
+new_3-3 (10)
+prt_maze01 (5)
+#
+1012#
+prt_fild00 (130)
+gef_fild01 (80)
+gef_fild09 (20)
+prt_fild04 (20)
+#
+1013#
+moc_fild03 (140)
+moc_fild13 (15)
+prt_maze01 (5)
+#
+1014#
+pay_fild08 (140)
+pay_fild02 (30)
+pay_fild06 (30)
+prt_sewb2 (20)
+#
+1015#
+pay_dun00 (40)
+gef_dun01 (25)
+pvp_n_8-4 (4)
+#
+1016#
+moc_pryd02 (30)
+pay_dun01 (30)
+pay_dun02 (20)
+pay_dun04 (15)
+#
+1018#
+gef_fild05 (140)
+mjolnir_06 (30)
+prt_fild02 (30)
+mjolnir_01 (20)
+pay_fild07 (20)
+prt_maze01 (1)
+#
+1019#
+moc_fild01 (130)
+moc_fild02 (60)
+#
+1020#
+gef_fild04 (125)
+pay_dun03 (10)
+pay_dun02 (3)
+#
+1023#
+gef_fild10 (130)
+gef_fild03 (60)
+#
+1024#
+pay_fild06 (140)
+pay_fild02 (30)
+pay_fild08 (30)
+#
+1025#
+pay_fild02 (140)
+pay_fild06 (30)
+pay_fild08 (30)
+prt_maze01 (5)
+#
+1026#
+pay_dun02 (40)
+lou_dun02 (25)
+pay_dun03 (3)
+#
+1028#
+pay_dun01 (50)
+pay_dun02 (45)
+moc_pryd02 (30)
+#
+1029#
+moc_pryd04 (50)
+moc_pryd02 (5)
+#
+1030#
+ra_fild08 (100)
+ra_fild03 (20)
+#
+1031#
+pay_fild04 (130)
+prt_maze03 (45)
+prt_fild02 (30)
+prt_fild03 (30)
+prt_maze02 (25)
+moc_pryd01 (20)
+moc_pryd02 (20)
+mosk_dun01 (20)
+xmas_dun01 (20)
+gef_fild02 (20)
+#
+1032#
+moc_pryd05 (50)
+moc_pryd06 (30)
+moc_pryd03 (20)
+#
+1033#
+pay_fild09 (140)
+prt_fild10 (140)
+gef_fild02 (20)
+mjolnir_02 (20)
+#
+1034#
+beach_dun3 (50)
+tur_dun01 (10)
+#
+1035#
+mjolnir_12 (35)
+gef_dun00 (30)
+prt_maze03 (30)
+gef_dun02 (10)
+gl_prison (10)
+gl_prison1 (10)
+prt_maze01 (4)
+gl_chyard (3)
+#
+1036#
+abbey01 (56)
+nameless_n (40)
+gef_dun01 (40)
+ayo_dun01 (30)
+gef_dun02 (10)
+pvp_n_8-4 (3)
+#
+1037#
+mjolnir_03 (130)
+mosk_fild02 (40)
+mjolnir_04 (35)
+prt_maze03 (30)
+gef_fild06 (30)
+in_sphinx5 (20)
+lou_dun01 (10)
+gon_fild01 (10)
+prt_maze01 (3)
+pvp_n_8-1 (2)
+#
+1038#
+moc_pryd04 (1)
+#
+1039#
+gld_dun03 (1)
+prt_maze03 (1)
+#
+1040#
+cmd_fild06 (150)
+cmd_fild08 (2)
+#
+1041#
+moc_pryd03 (70)
+moc_pryd02 (30)
+moc_pryd04 (25)
+moc_pryd05 (10)
+#
+1042#
+moc_fild13 (140)
+orcsdun02 (20)
+moc_fild03 (20)
+orcsdun01 (10)
+prt_maze01 (5)
+#
+1044#
+iz_dun02 (40)
+#
+1045#
+iz_dun03 (40)
+#
+1046#
+gef_dun02 (1)
+gld_dun04 (1)
+#
+1047#
+moc_fild12 (35)
+moc_fild01 (20)
+moc_fild02 (10)
+moc_fild07 (10)
+#
+1048#
+prt_sewb1 (80)
+prt_fild05 (30)
+prt_sewb2 (20)
+prt_sewb3 (10)
+prt_sewb4 (10)
+gef_fild05 (10)
+payon_in02 (7)
+jawaii_in (2)
+#
+1049#
+moc_fild12 (50)
+new_4-3 (15)
+new_5-3 (15)
+moc_fild07 (10)
+#
+1050#
+moc_fild12 (50)
+moc_fild07 (15)
+#
+1051#
+prt_sewb2 (70)
+prt_sewb1 (30)
+prt_fild05 (30)
+job_monk (20)
+prt_sewb3 (20)
+prt_sewb4 (20)
+gef_fild05 (10)
+#
+1052#
+prt_fild07 (150)
+prt_maze01 (5)
+#
+1053#
+prt_sewb3 (65)
+prt_sewb4 (20)
+prt_sewb2 (10)
+#
+1054#
+prt_sewb4 (70)
+prt_sewb3 (65)
+#
+1055#
+moc_fild02 (130)
+moc_fild01 (50)
+#
+1056#
+ayo_fild01 (30)
+mjolnir_06 (30)
+gef_fild05 (20)
+prt_maze01 (5)
+#
+1057#
+prt_fild03 (100)
+ayo_fild02 (45)
+ayo_fild01 (30)
+mjolnir_02 (20)
+prt_maze01 (4)
+#
+1058#
+cmd_fild09 (145)
+prt_fild09 (60)
+cmd_fild06 (50)
+moc_fild13 (15)
+#
+1059#
+gld_dun02 (1)
+mjolnir_04 (1)
+#
+1060#
+pay_fild07 (130)
+mjolnir_01 (20)
+ama_fild01 (15)
+sec_in02 (10)
+prt_maze01 (5)
+prt_maze02 (5)
+pvp_n_8-1 (2)
+#
+1061#
+gef_dun01 (30)
+gef_dun02 (20)
+#
+1062#
+#
+1063#
+prt_fild01 (140)
+prt_fild08 (40)
+prt_fild08a (40)
+prt_fild08b (40)
+prt_fild08c (40)
+prt_fild08d (40)
+prt_fild06 (30)
+gef_fild04 (25)
+new_1-3 (20)
+new_2-3 (15)
+#
+1064#
+beach_dun3 (30)
+#
+1065#
+iz_dun04 (50)
+#
+1066#
+iz_dun01 (60)
+iz_dun00 (15)
+#
+1067#
+iz_dun02 (60)
+iz_dun01 (15)
+#
+1068#
+iz_dun02 (40)
+pay_dun02 (31)
+beach_dun3 (30)
+iz_dun01 (30)
+iz_dun03 (30)
+iz_dun04 (18)
+bra_dun01 (15)
+bra_dun02 (15)
+iz_dun00 (15)
+beach_dun2 (10)
+#
+1069#
+iz_dun03 (40)
+iz_dun04 (10)
+#
+1070#
+iz_dun01 (50)
+treasure01 (20)
+treasure02 (20)
+iz_dun00 (15)
+bra_dun01 (10)
+bra_dun02 (10)
+#
+1071#
+treasure01 (43)
+treasure02 (20)
+#
+1072#
+mag_dun01 (20)
+thor_v02 (10)
+#
+1073#
+cmd_fild07 (30)
+cmd_fild02 (20)
+cmd_fild04 (20)
+hu_fild06 (20)
+mal_dun01 (10)
+#
+1074#
+hu_fild06 (50)
+cmd_fild07 (30)
+cmd_fild02 (20)
+cmd_fild04 (20)
+mal_dun01 (10)
+jawaii (3)
+#
+1076#
+pay_dun00 (35)
+#
+1077#
+mjolnir_06 (140)
+gef_dun00 (25)
+prt_sewb3 (15)
+treasure01 (12)
+#
+1078#
+pay_dun00 (15)
+pay_dun03 (15)
+yggdrasil01 (15)
+yuno_fild01 (15)
+yuno_fild03 (15)
+gef_dun00 (12)
+pay_dun01 (10)
+pay_dun04 (10)
+ein_fild04 (10)
+ein_fild06 (10)
+#
+1079#
+odin_tem03 (15)
+yggdrasil01 (15)
+odin_tem02 (10)
+gef_fild10 (6)
+hu_fild04 (6)
+odin_tem01 (5)
+prt_maze03 (5)
+cmd_fild01 (5)
+mjolnir_01 (5)
+um_fild03 (5)
+#
+1080#
+yggdrasil01 (25)
+yuno_fild01 (20)
+glast_01 (16)
+ein_fild03 (15)
+lhz_fild02 (15)
+prt_fild06 (15)
+yuno_fild03 (15)
+ayo_fild01 (10)
+ein_fild04 (10)
+hu_fild04 (10)
+#
+1081#
+ein_fild03 (15)
+lhz_fild02 (15)
+ra_fild12 (15)
+yuno_fild01 (15)
+yuno_fild03 (15)
+gon_dun01 (10)
+gon_dun02 (10)
+mosk_dun03 (10)
+ayo_fild02 (10)
+ein_fild04 (10)
+#
+1082#
+gef_dun02 (12)
+gef_dun01 (10)
+gef_dun03 (10)
+gon_dun01 (10)
+gon_dun03 (10)
+mosk_dun03 (10)
+ve_fild07 (10)
+pay_dun02 (6)
+orcsdun01 (5)
+orcsdun02 (5)
+#
+1083#
+yggdrasil01 (25)
+odin_tem03 (15)
+lou_dun01 (5)
+mosk_dun03 (5)
+um_fild01 (5)
+gef_fild06 (4)
+gef_dun03 (3)
+mjolnir_04 (3)
+bra_dun02 (2)
+gef_dun02 (2)
+#
+1084#
+iz_dun02 (15)
+gl_knt01 (12)
+iz_dun01 (10)
+orcsdun01 (10)
+pay_dun01 (7)
+pay_dun02 (7)
+gef_dun00 (6)
+bra_dun01 (5)
+bra_dun02 (5)
+gef_dun01 (5)
+#
+1085#
+prt_fild10 (15)
+ein_fild07 (10)
+ein_fild08 (10)
+ein_fild09 (10)
+gef_fild09 (10)
+prt_fild11 (10)
+pay_fild06 (8)
+pay_fild03 (6)
+prt_maze01 (5)
+prt_maze03 (5)
+#
+1086#
+prt_sewb4 (1)
+#
+1087#
+gef_fild03 (1)
+#
+1088#
+prt_maze03 (1)
+prt_fild04 (1)
+prt_fild07 (1)
+#
+1089#
+cmd_fild03 (1)
+gef_fild01 (1)
+#
+1090#
+prt_maze03 (1)
+xmas_dun01 (1)
+pay_fild04 (1)
+yuno_fild04 (1)
+#
+1091#
+moc_fild18 (1)
+#
+1092#
+prt_maze01 (1)
+prt_maze03 (1)
+#
+1093#
+prt_maze03 (1)
+prt_fild02 (1)
+#
+1094#
+gef_fild09 (80)
+prt_fild04 (80)
+prt_fild00 (50)
+gef_fild01 (20)
+#
+1095#
+anthell02 (50)
+cmd_fild08 (50)
+anthell01 (15)
+cmd_fild09 (15)
+#
+1096#
+xmas_dun01 (1)
+pay_fild04 (1)
+yuno_fild03 (1)
+#
+1097#
+anthell01 (87)
+cmd_fild08 (30)
+anthell02 (15)
+cmd_fild09 (10)
+#
+1098#
+in_sphinx4 (15)
+in_sphinx5 (10)
+#
+1099#
+mjolnir_05 (130)
+mjolnir_11 (130)
+dew_fild01 (45)
+mosk_fild02 (30)
+prt_maze01 (3)
+#
+1100#
+mjolnir_10 (140)
+mjolnir_11 (35)
+moc_fild03 (20)
+moc_fild13 (15)
+prt_maze01 (3)
+#
+1101#
+prt_maze03 (25)
+#
+1102#
+alde_dun04 (50)
+c_tower1 (1)
+#
+1103#
+mjolnir_01 (140)
+pay_fild07 (30)
+prt_maze01 (5)
+#
+1104#
+gef_fild02 (140)
+ayo_fild01 (30)
+pay_fild09 (30)
+prt_fild10 (20)
+prt_maze01 (5)
+#
+1105#
+cmd_fild08 (50)
+anthell01 (40)
+anthell02 (15)
+cmd_fild09 (15)
+#
+1106#
+ra_fild01 (130)
+ra_fild04 (20)
+#
+1107#
+moc_fild11 (140)
+moc_fild18 (30)
+ra_fild01 (20)
+ra_fild12 (15)
+ra_fild08 (10)
+#
+1108#
+iz_dun04 (3)
+#
+1109#
+gef_dun02 (45)
+#
+1110#
+pay_dun04 (40)
+bra_fild01 (10)
+#
+1111#
+alde_dun03 (55)
+alde_dun01 (40)
+in_sphinx1 (40)
+gef_dun01 (20)
+mjo_dun02 (20)
+moc_pryd02 (20)
+orcsdun02 (20)
+prt_sewb4 (20)
+in_sphinx2 (15)
+gl_sew04 (10)
+#
+1112#
+treasure02 (1)
+#
+1113#
+moc_fild07 (140)
+moc_fild12 (30)
+pay_fild04 (20)
+new_1-3 (10)
+xmas_dun01 (10)
+sec_in02 (5)
+#
+1114#
+mjolnir_12 (130)
+yuno_fild01 (35)
+prt_maze01 (5)
+#
+1115#
+gld_dun01_2 (1)
+pay_fild10 (1)
+#
+1116#
+pay_dun01 (15)
+#
+1117#
+gl_church (61)
+gl_chyard (10)
+gl_cas02 (9)
+#
+1118#
+cmd_fild01 (50)
+cmd_fild03 (50)
+mjolnir_11 (35)
+gef_fild08 (30)
+mjolnir_07 (30)
+mjolnir_08 (30)
+mjolnir_10 (30)
+sec_in02 (10)
+#
+1119#
+moc_fild16 (10)
+moc_fild17 (10)
+#
+1120#
+gld_dun04 (1)
+prt_maze03 (1)
+treasure02 (1)
+pay_fild04 (1)
+#
+1121#
+mjo_dun02 (35)
+mjo_dun03 (5)
+anthell02 (3)
+anthell01 (1)
+#
+1122#
+gef_fild11 (50)
+prt_fild11 (10)
+#
+1123#
+gef_fild11 (50)
+prt_fild11 (10)
+#
+1124#
+gef_fild11 (50)
+prt_fild11 (10)
+#
+1125#
+gef_fild11 (50)
+prt_fild11 (10)
+#
+1126#
+prt_fild11 (60)
+#
+1127#
+moc_fild17 (130)
+moc_fild16 (30)
+#
+1128#
+mjolnir_02 (140)
+pay_fild09 (30)
+prt_fild03 (30)
+gef_fild02 (20)
+prt_fild10 (20)
+prt_maze01 (5)
+#
+1129#
+pay_dun04 (30)
+lou_dun01 (15)
+ama_dun02 (10)
+#
+1130#
+gef_dun01 (40)
+#
+1131#
+alde_dun04 (10)
+#
+1132#
+gl_knt02 (40)
+gl_knt01 (10)
+gl_cas02 (6)
+pvp_n_8-5 (1)
+#
+1133#
+ra_fild05 (70)
+ra_fild06 (40)
+#
+1134#
+ra_fild05 (70)
+ra_fild06 (40)
+#
+1135#
+ra_fild05 (70)
+ra_fild06 (40)
+#
+1136#
+#
+1137#
+#
+1138#
+prt_fild09 (140)
+moc_fild13 (15)
+#
+1139#
+mjolnir_03 (35)
+mjolnir_04 (35)
+mjolnir_05 (35)
+mjolnir_12 (35)
+yuno_fild01 (35)
+prt_maze03 (30)
+gef_fild06 (30)
+gef_fild08 (30)
+yuno_fild12 (30)
+lou_fild01 (19)
+#
+1140#
+in_sphinx3 (65)
+#
+1141#
+iz_dun00 (45)
+bra_dun01 (20)
+iz_dun01 (15)
+bra_dun02 (10)
+#
+1142#
+iz_dun03 (20)
+iz_dun04 (10)
+#
+1143#
+gef_dun02 (30)
+gl_in01 (20)
+treasure02 (1)
+#
+1144#
+iz_dun02 (40)
+#
+1145#
+mjo_dun02 (60)
+mjo_dun01 (20)
+mjo_dun03 (5)
+prt_maze01 (5)
+#
+1146#
+in_sphinx2 (20)
+moc_pryd04 (20)
+in_sphinx3 (15)
+in_sphinx1 (10)
+in_sphinx5 (10)
+moc_pryd03 (10)
+#
+1147#
+anthell02 (1)
+gld_dun02_2 (1)
+#
+1148#
+beach_dun (60)
+#
+1149#
+moc_pryd05 (60)
+in_sphinx4 (50)
+#
+1150#
+gld_dun01 (1)
+pay_dun04 (1)
+#
+1151#
+mjo_dun03 (35)
+#
+1152#
+orcsdun02 (50)
+orcsdun01 (10)
+#
+1153#
+orcsdun01 (80)
+#
+1154#
+in_sphinx5 (70)
+in_sphinx4 (20)
+in_sphinx3 (5)
+#
+1155#
+gef_fild06 (130)
+#
+1156#
+#
+1157#
+in_sphinx5 (1)
+#
+1158#
+iz_dun03 (45)
+jawaii (3)
+#
+1159#
+moc_fild17 (1)
+#
+1160#
+anthell01 (50)
+cmd_fild08 (50)
+anthell02 (15)
+cmd_fild09 (15)
+#
+1161#
+iz_dun00 (65)
+prt_sewb2 (30)
+bra_dun01 (10)
+bra_dun02 (10)
+iz_dun01 (10)
+#
+1162#
+lhz_fild01 (130)
+lhz_fild02 (20)
+lhz_fild03 (20)
+#
+1163#
+gl_knt01 (90)
+gl_knt02 (80)
+gl_cas02 (36)
+pvp_n_8-5 (2)
+#
+1164#
+in_sphinx2 (50)
+in_sphinx1 (20)
+#
+1165#
+moc_fild16 (130)
+moc_fild17 (30)
+#
+1166#
+mjolnir_07 (140)
+pay_fild10 (50)
+mjolnir_08 (30)
+prt_maze01 (8)
+bra_fild01 (5)
+#
+1167#
+mjolnir_09 (140)
+prt_fild07 (50)
+prt_fild00 (20)
+#
+1169#
+mjo_dun03 (70)
+mjo_dun02 (20)
+#
+1170#
+pay_dun03 (70)
+#
+1174#
+prt_fild02 (140)
+gef_fild05 (20)
+mjolnir_01 (20)
+pay_fild07 (20)
+prt_maze01 (5)
+#
+1175#
+mjo_dun01 (60)
+prt_sewb2 (60)
+prt_sewb3 (15)
+prt_sewb1 (10)
+einbech (5)
+#
+1176#
+anthell02 (30)
+anthell01 (10)
+#
+1177#
+orcsdun02 (50)
+#
+1178#
+in_sphinx2 (50)
+in_sphinx1 (20)
+#
+1179#
+gl_sew01 (40)
+ayo_dun02 (20)
+gef_dun02 (20)
+treasure01 (15)
+treasure02 (14)
+alde_dun04 (10)
+ayo_dun01 (10)
+gl_cas01 (10)
+c_tower4 (5)
+pvp_n_8-3 (3)
+#
+1180#
+pay_dun04 (30)
+pay_dun03 (2)
+pay_dun02 (1)
+#
+1182#
+job_monk (70)
+#
+1183#
+#
+1184#
+new_4-3 (5)
+new_5-3 (5)
+#
+1185#
+pay_dun03 (4)
+gl_cas02 (1)
+#
+1186#
+pvp_n_8-3 (2)
+gl_knt01 (1)
+pay_dun03 (1)
+#
+1188#
+pay_dun02 (30)
+pay_dun03 (3)
+#
+1189#
+alde_dun02 (20)
+orcsdun02 (5)
+#
+1190#
+gef_fild10 (1)
+#
+1191#
+moc_pryd06 (30)
+tha_t02 (30)
+tha_t01 (20)
+tha_t04 (20)
+moc_pryd04 (15)
+c_tower4 (12)
+abyss_01 (10)
+abyss_02 (10)
+abyss_03 (10)
+tha_t03 (10)
+#
+1192#
+gl_church (55)
+gl_chyard (35)
+gef_dun03 (8)
+#
+1193#
+c_tower3 (80)
+c_tower4 (30)
+#
+1194#
+alde_dun01 (50)
+gl_dun01 (50)
+alde_dun02 (20)
+moc_pryd06 (20)
+gl_sew01 (10)
+#
+1195#
+#
+1196#
+gl_prison1 (30)
+#
+1197#
+gl_prison (30)
+#
+1198#
+gl_chyard (60)
+#
+1199#
+c_tower1 (70)
+c_tower2 (40)
+#
+1200#
+gl_prison1 (1)
+#
+1201#
+gl_prison (15)
+gl_prison1 (10)
+#
+1202#
+gl_prison1 (10)
+#
+1203#
+gefenia01 (1)
+gefenia02 (1)
+gefenia03 (1)
+gefenia04 (1)
+gl_cas02 (1)
+gl_knt02 (1)
+#
+1204#
+gefenia01 (1)
+gefenia02 (1)
+gefenia03 (1)
+gefenia04 (1)
+gl_cas02 (1)
+#
+1205#
+gefenia01 (1)
+gefenia02 (1)
+gefenia03 (1)
+gefenia04 (1)
+#
+1206#
+gl_sew04 (100)
+#
+1207#
+gl_sew03 (70)
+gl_dun01 (40)
+#
+1208#
+gl_cas02 (41)
+gl_in01 (1)
+treasure02 (1)
+#
+1209#
+alde_dun03 (56)
+gl_sew02 (15)
+gl_prison1 (5)
+prt_sewb4 (5)
+pvp_n_8-2 (4)
+mjo_dun03 (3)
+#
+1211#
+alde_dun02 (20)
+#
+1212#
+#
+1213#
+alde_dun02 (50)
+#
+1214#
+um_fild02 (5)
+prt_maze01 (2)
+um_fild04 (2)
+prt_fild03 (1)
+#
+1215#
+lhz_fild02 (100)
+lhz_fild01 (35)
+prt_maze03 (20)
+lhz_fild03 (20)
+#
+1216#
+alde_dun03 (85)
+treasure02 (38)
+abyss_01 (30)
+#
+1219#
+gefenia01 (10)
+gefenia02 (10)
+gefenia03 (10)
+gefenia04 (10)
+gl_knt01 (10)
+gl_cas02 (7)
+gl_knt02 (6)
+glast_01 (2)
+#
+1220#
+#
+1221#
+#
+1229#
+#
+1230#
+#
+1231#
+#
+1232#
+#
+1234#
+#
+1235#
+#
+1236#
+#
+1237#
+#
+1238#
+#
+1239#
+#
+1240#
+#
+1241#
+#
+1242#
+xmas_fild01 (35)
+pay_fild04 (30)
+xmas_dun01 (20)
+sec_in02 (5)
+#
+1243#
+mosk_que (15)
+xmas_fild01 (5)
+prt_maze02 (1)
+#
+1244#
+#
+1245#
+#
+1246#
+xmas_dun01 (40)
+xmas_dun02 (20)
+#
+1247#
+#
+1248#
+xmas_dun02 (35)
+#
+1249#
+xmas_dun02 (50)
+xmas_dun01 (5)
+#
+1250#
+xmas_dun01 (1)
+#
+1251#
+xmas_dun02 (1)
+#
+1252#
+xmas_fild01 (1)
+#
+1253#
+gl_sew02 (55)
+gl_sew03 (40)
+gl_sew01 (30)
+gl_sew04 (20)
+gl_dun02 (15)
+glast_01 (10)
+#
+1254#
+cmd_fild07 (100)
+#
+1255#
+beach_dun (20)
+beach_dun2 (3)
+beach_dun3 (1)
+#
+1256#
+beach_dun (20)
+tur_dun01 (15)
+tur_dun02 (15)
+#
+1257#
+gl_prison1 (40)
+gl_prison (20)
+#
+1258#
+prt_fild11 (50)
+#
+1259#
+hu_fild02 (3)
+#
+1260#
+gl_cas01 (20)
+gl_in01 (10)
+#
+1261#
+um_fild04 (30)
+prontera (1)
+morocc (1)
+alberta (1)
+aldebaran (1)
+geffen (1)
+payon (1)
+comodo (1)
+izlude (1)
+yuno (1)
+#
+1262#
+cmd_fild03 (4)
+#
+1263#
+gl_step (100)
+gef_dun03 (3)
+#
+1264#
+iz_dun04 (52)
+beach_dun (3)
+iz_dun03 (3)
+iz_dun02 (1)
+#
+1265#
+xmas_dun01 (40)
+xmas_dun02 (20)
+#
+1266#
+cmd_fild07 (30)
+mal_dun01 (20)
+hu_fild06 (20)
+cmd_fild02 (10)
+cmd_fild04 (10)
+jawaii (3)
+#
+1267#
+gl_cas01 (50)
+#
+1268#
+gefenia01 (1)
+gefenia02 (1)
+gefenia03 (1)
+gefenia04 (1)
+gl_knt02 (1)
+#
+1269#
+c_tower2 (40)
+c_tower4 (35)
+#
+1270#
+c_tower3 (3)
+c_tower4 (3)
+c_tower1 (1)
+c_tower2 (1)
+#
+1271#
+cmd_fild03 (150)
+#
+1272#
+gl_chyard (1)
+gld_dun04_2 (1)
+#
+1273#
+gef_fild03 (130)
+gef_fild10 (40)
+#
+1274#
+beach_dun2 (15)
+#
+1275#
+kh_dun01 (25)
+tha_t02 (10)
+tha_t01 (5)
+gl_cas01 (1)
+gl_cas02 (1)
+gl_in01 (1)
+gl_knt01 (1)
+gl_knt02 (1)
+#
+1276#
+gl_knt02 (30)
+gl_cas02 (20)
+gl_knt01 (10)
+gl_step (10)
+#
+1277#
+pay_fild10 (100)
+pay_dun04 (15)
+pay_dun03 (3)
+#
+1278#
+beach_dun2 (65)
+#
+1279#
+beach_dun2 (20)
+#
+1280#
+prt_fild11 (30)
+#
+1281#
+gl_in01 (14)
+gl_cas01 (10)
+#
+1282#
+ra_fild06 (70)
+#
+1283#
+gl_cas02 (3)
+#
+1285#
+#
+1286#
+#
+1287#
+#
+1288#
+#
+1289#
+gld_dun02_2 (3)
+gld2_ald (3)
+#
+1290#
+gld2_pay (60)
+gld_dun01_2 (50)
+pay_dun04 (1)
+#
+1291#
+gld_dun04 (25)
+gef_dun03 (4)
+gl_church (1)
+#
+1292#
+gefenia02 (30)
+gefenia03 (30)
+gefenia01 (20)
+gefenia04 (20)
+gld_dun04 (10)
+#
+1293#
+gld_dun03 (35)
+#
+1294#
+gld2_ald (60)
+gld_dun02_2 (30)
+prt_maze03 (1)
+#
+1295#
+tha_t06 (40)
+tha_t05 (20)
+tha_t04 (10)
+gl_cas01 (6)
+#
+1296#
+gld_dun03_2 (1)
+ra_fild06 (1)
+#
+1297#
+moc_pryd06 (20)
+moc_pryd04 (3)
+#
+1298#
+gld_dun04 (55)
+#
+1299#
+gef_fild11 (1)
+#
+1300#
+gld_dun03 (35)
+#
+1301#
+gld2_pay (25)
+dew_dun02 (20)
+gld_dun01_2 (15)
+pay_dun04 (1)
+#
+1302#
+gl_chyard (1)
+gld_dun04_2 (1)
+gld2_gef (1)
+#
+1303#
+gld_dun02 (30)
+#
+1304#
+gld_dun02 (15)
+#
+1305#
+dew_dun01 (25)
+gld_dun02 (25)
+#
+1306#
+gld_dun01 (55)
+lou_dun01 (1)
+prt_maze02 (1)
+#
+1307#
+gld_dun01 (3)
+pay_dun04 (1)
+#
+1308#
+prt_fild11 (1)
+#
+1309#
+dew_dun02 (30)
+gld2_pay (30)
+gld_dun01_2 (20)
+#
+1310#
+gl_dun02 (45)
+#
+1311#
+gld_dun01 (30)
+dew_dun01 (10)
+#
+1312#
+tur_dun04 (1)
+#
+1313#
+cmd_fild02 (1)
+#
+1314#
+tur_dun02 (40)
+tur_dun03 (15)
+tur_dun01 (10)
+tur_dun04 (4)
+tur_dun05 (3)
+#
+1315#
+tur_dun04 (41)
+tur_dun03 (35)
+tur_dun05 (1)
+#
+1316#
+tur_dun02 (40)
+#
+1317#
+cmd_fild02 (120)
+#
+1318#
+tur_dun04 (33)
+tur_dun03 (10)
+#
+1319#
+tur_dun03 (40)
+tur_dun02 (20)
+tur_dun04 (15)
+tur_dun05 (5)
+#
+1320#
+tha_t05 (80)
+tha_t06 (40)
+c_tower4 (30)
+gl_cas01 (20)
+tha_t04 (10)
+#
+1321#
+tur_dun01 (25)
+#
+1322#
+tur_dun01 (25)
+#
+1323#
+cmd_fild04 (120)
+#
+1324#
+#
+1325#
+#
+1326#
+#
+1327#
+#
+1328#
+#
+1329#
+#
+1330#
+#
+1331#
+#
+1332#
+#
+1333#
+#
+1334#
+#
+1335#
+#
+1336#
+#
+1337#
+#
+1338#
+#
+1339#
+#
+1340#
+#
+1341#
+#
+1342#
+#
+1343#
+#
+1344#
+#
+1345#
+#
+1346#
+#
+1347#
+#
+1348#
+#
+1349#
+#
+1350#
+#
+1351#
+#
+1352#
+#
+1353#
+#
+1354#
+#
+1355#
+#
+1356#
+#
+1357#
+#
+1358#
+#
+1359#
+#
+1360#
+#
+1361#
+#
+1362#
+#
+1363#
+#
+1364#
+#
+1365#
+juperos_02 (70)
+#
+1366#
+mag_dun01 (20)
+#
+1367#
+mag_dun01 (20)
+mag_dun02 (20)
+#
+1368#
+yuno_fild12 (60)
+yuno_fild01 (50)
+yuno_fild11 (40)
+yuno_fild04 (35)
+hu_fild02 (30)
+hu_fild04 (30)
+yuno_fild08 (30)
+yuno_fild09 (30)
+yuno_fild06 (20)
+lou_fild01 (19)
+#
+1369#
+yuno_fild08 (130)
+yuno_fild09 (130)
+yuno_fild02 (35)
+yuno_fild07 (30)
+#
+1370#
+gefenia02 (20)
+gefenia01 (10)
+gefenia03 (10)
+gefenia04 (10)
+#
+1371#
+gefenia01 (60)
+gefenia03 (40)
+gefenia02 (30)
+gefenia04 (30)
+#
+1372#
+yuno_fild11 (100)
+yuno_fild07 (90)
+yuno_fild03 (35)
+yuno_fild04 (35)
+yuno_fild08 (30)
+#
+1373#
+#
+1374#
+gefenia03 (20)
+gefenia01 (10)
+gefenia02 (10)
+gefenia04 (10)
+#
+1375#
+ama_dun03 (20)
+ama_dun02 (1)
+#
+1376#
+yuno_fild03 (130)
+yuno_fild04 (130)
+yuno_fild07 (50)
+yuno_fild02 (35)
+#
+1377#
+tha_t04 (20)
+tha_t05 (20)
+tha_t06 (20)
+tha_t02 (10)
+tha_t03 (10)
+c_tower2 (2)
+c_tower4 (2)
+#
+1378#
+ein_fild04 (15)
+ein_fild05 (15)
+lhz_fild02 (15)
+lhz_fild03 (15)
+#
+1379#
+mag_dun02 (46)
+#
+1380#
+mjolnir_04 (130)
+mjolnir_03 (35)
+mjolnir_05 (35)
+#
+1381#
+lou_dun01 (15)
+mag_dun01 (10)
+#
+1382#
+mag_dun02 (15)
+#
+1383#
+mag_dun01 (30)
+#
+1384#
+mag_dun02 (38)
+#
+1385#
+mag_dun02 (40)
+#
+1386#
+yuno_fild02 (130)
+yuno_fild06 (80)
+yuno_fild03 (35)
+yuno_fild09 (30)
+#
+1387#
+mag_dun02 (10)
+#
+1388#
+yuno_fild04 (1)
+#
+1389#
+gef_dun01 (1)
+#
+1390#
+gefenia02 (40)
+gefenia03 (40)
+gefenia01 (30)
+gefenia04 (30)
+#
+1391#
+cmd_fild02 (30)
+cmd_fild04 (30)
+#
+1392#
+prt_fild11 (50)
+#
+1393#
+#
+1394#
+#
+1395#
+#
+1396#
+#
+1397#
+#
+1398#
+#
+1399#
+#
+1400#
+ama_fild01 (50)
+#
+1401#
+ama_dun03 (55)
+ama_dun01 (2)
+ama_dun02 (2)
+#
+1402#
+ama_dun02 (35)
+ama_fild01 (1)
+#
+1403#
+ama_dun01 (45)
+ama_dun03 (25)
+ama_dun02 (20)
+#
+1404#
+ama_dun01 (65)
+ama_dun02 (5)
+ama_fild01 (2)
+ama_dun03 (1)
+#
+1405#
+ama_dun03 (55)
+#
+1406#
+ama_fild01 (40)
+#
+1408#
+gon_dun01 (55)
+gon_dun02 (20)
+#
+1409#
+gon_fild01 (55)
+#
+1410#
+gon_dun01 (35)
+gon_dun02 (21)
+#
+1412#
+gon_dun03 (30)
+gon_dun02 (20)
+#
+1413#
+gon_dun03 (20)
+#
+1415#
+gon_fild01 (40)
+gon_dun02 (6)
+#
+1416#
+gon_dun03 (50)
+#
+1417#
+gon_dun01 (30)
+#
+1418#
+gon_dun03 (1)
+#
+1419#
+#
+1420#
+#
+1421#
+#
+1422#
+#
+1423#
+que_sign02 (20)
+#
+1424#
+#
+1425#
+#
+1426#
+#
+1427#
+#
+1428#
+job3_gen01 (18)
+#
+1429#
+#
+1430#
+#
+1431#
+#
+1432#
+#
+1433#
+#
+1434#
+#
+1435#
+que_sign02 (8)
+#
+1436#
+#
+1437#
+#
+1438#
+#
+1439#
+#
+1440#
+#
+1441#
+#
+1442#
+#
+1443#
+#
+1444#
+#
+1445#
+#
+1446#
+que_sign02 (8)
+#
+1447#
+#
+1448#
+#
+1449#
+#
+1450#
+#
+1451#
+#
+1452#
+#
+1453#
+#
+1454#
+#
+1455#
+#
+1456#
+#
+1457#
+#
+1458#
+#
+1459#
+#
+1460#
+#
+1461#
+#
+1462#
+#
+1463#
+#
+1464#
+#
+1465#
+#
+1466#
+#
+1467#
+#
+1468#
+#
+1469#
+#
+1470#
+#
+1471#
+#
+1472#
+#
+1473#
+#
+1474#
+#
+1475#
+que_sign02 (15)
+#
+1476#
+#
+1477#
+#
+1478#
+#
+1479#
+que_sign02 (15)
+#
+1480#
+que_sign02 (15)
+#
+1481#
+#
+1482#
+#
+1483#
+#
+1484#
+#
+1485#
+#
+1486#
+#
+1487#
+#
+1488#
+#
+1489#
+#
+1490#
+#
+1491#
+#
+1492#
+ama_dun03 (1)
+#
+1493#
+um_fild01 (70)
+#
+1494#
+mjolnir_08 (140)
+pay_fild10 (50)
+mjolnir_07 (30)
+mjolnir_10 (30)
+#
+1495#
+um_fild01 (15)
+um_fild02 (15)
+um_fild03 (15)
+um_fild04 (10)
+#
+1497#
+um_fild01 (10)
+um_fild04 (10)
+#
+1498#
+um_fild01 (10)
+um_fild02 (10)
+um_fild03 (10)
+um_fild04 (5)
+#
+1499#
+um_fild02 (40)
+um_fild01 (10)
+um_fild03 (10)
+um_fild04 (5)
+#
+1500#
+um_fild03 (60)
+#
+1502#
+#
+1503#
+nif_fild02 (20)
+niflheim (10)
+nif_fild01 (10)
+#
+1504#
+nif_fild01 (20)
+nif_fild02 (10)
+niflheim (5)
+#
+1505#
+nif_fild02 (21)
+#
+1506#
+nif_fild01 (50)
+#
+1507#
+nif_fild02 (11)
+#
+1508#
+nif_fild01 (30)
+niflheim (20)
+#
+1509#
+niflheim (20)
+nif_fild02 (10)
+#
+1510#
+niflheim (10)
+nif_fild01 (10)
+nif_fild02 (10)
+#
+1511#
+moc_pryd06 (1)
+#
+1512#
+lou_dun02 (40)
+lou_dun03 (25)
+#
+1513#
+lou_dun03 (15)
+#
+1514#
+lou_dun03 (25)
+lou_dun02 (5)
+#
+1515#
+xmas_fild01 (1)
+#
+1516#
+lou_fild01 (40)
+lou_dun01 (15)
+#
+1517#
+lou_dun01 (45)
+#
+1518#
+#
+1519#
+#
+1520#
+#
+1521#
+#
+1522#
+que_sign02 (8)
+#
+1523#
+#
+1524#
+#
+1525#
+#
+1526#
+#
+1527#
+#
+1528#
+#
+1529#
+#
+1530#
+#
+1531#
+#
+1532#
+#
+1533#
+#
+1534#
+#
+1535#
+#
+1536#
+#
+1537#
+#
+1538#
+#
+1539#
+#
+1540#
+#
+1541#
+#
+1542#
+#
+1543#
+#
+1544#
+#
+1545#
+#
+1546#
+#
+1547#
+#
+1548#
+#
+1549#
+#
+1550#
+#
+1551#
+#
+1552#
+#
+1553#
+#
+1554#
+#
+1555#
+#
+1556#
+#
+1557#
+#
+1558#
+#
+1559#
+#
+1560#
+#
+1561#
+#
+1562#
+#
+1563#
+#
+1564#
+#
+1565#
+#
+1566#
+que_sign02 (8)
+#
+1567#
+#
+1568#
+#
+1569#
+#
+1570#
+#
+1571#
+#
+1572#
+#
+1573#
+#
+1574#
+#
+1575#
+#
+1576#
+#
+1577#
+#
+1578#
+#
+1579#
+#
+1580#
+que_sign02 (8)
+#
+1581#
+#
+1582#
+pay_fild04 (1)
+yuno_fild03 (1)
+#
+1583#
+beach_dun (1)
+#
+1584#
+ayo_dun02 (100)
+#
+1585#
+#
+1586#
+ayo_dun01 (65)
+ayo_fild02 (35)
+#
+1587#
+ayo_dun02 (20)
+ayo_dun01 (5)
+ayo_fild02 (5)
+#
+1588#
+#
+1589#
+#
+1590#
+#
+1591#
+#
+1592#
+#
+1593#
+#
+1594#
+#
+1595#
+#
+1596#
+#
+1597#
+#
+1598#
+#
+1599#
+#
+1600#
+#
+1601#
+#
+1602#
+#
+1603#
+#
+1604#
+#
+1605#
+#
+1606#
+#
+1607#
+#
+1608#
+#
+1609#
+#
+1610#
+#
+1611#
+#
+1612#
+#
+1613#
+ein_fild08 (100)
+ein_fild07 (90)
+lhz_dun01 (50)
+lhz_fild01 (35)
+ein_fild06 (30)
+ein_fild09 (30)
+lhz_fild02 (20)
+lhz_fild03 (20)
+#
+1614#
+ein_dun02 (50)
+#
+1615#
+ein_dun02 (40)
+#
+1616#
+ein_dun01 (70)
+ein_fild03 (20)
+ein_fild04 (10)
+ein_fild05 (10)
+#
+1617#
+ein_dun02 (30)
+ein_dun01 (1)
+#
+1618#
+ein_dun01 (1)
+ein_fild07 (1)
+#
+1619#
+ein_fild09 (70)
+ein_dun01 (30)
+ein_fild07 (30)
+ein_fild08 (30)
+#
+1620#
+ein_fild05 (100)
+ein_dun01 (30)
+ein_fild04 (30)
+ein_fild03 (20)
+#
+1621#
+ein_fild04 (100)
+ein_fild05 (30)
+ein_fild03 (20)
+ein_dun01 (10)
+#
+1622#
+ein_fild03 (100)
+ein_dun02 (30)
+ein_fild04 (20)
+ein_fild05 (20)
+#
+1623#
+ein_dun02 (1)
+#
+1624#
+#
+1625#
+#
+1626#
+gef_dun03 (1)
+#
+1627#
+lhz_dun01 (70)
+ra_fild12 (30)
+ra_fild03 (20)
+ra_fild04 (20)
+ra_fild01 (10)
+ra_fild05 (10)
+ra_fild06 (10)
+ra_fild08 (10)
+#
+1628#
+ein_fild06 (100)
+ein_fild07 (10)
+#
+1629#
+#
+1630#
+lou_dun03 (1)
+#
+1631#
+lou_dun03 (10)
+#
+1632#
+ra_san01 (10)
+ra_san02 (10)
+ra_san03 (5)
+#
+1633#
+ra_san02 (10)
+ra_san01 (6)
+ra_san03 (5)
+#
+1634#
+lhz_dun03 (42)
+#
+1635#
+lhz_dun03 (42)
+lhz_dun02 (1)
+#
+1636#
+lhz_dun03 (42)
+#
+1637#
+lhz_dun03 (42)
+#
+1638#
+lhz_dun03 (81)
+#
+1639#
+lhz_dun03 (57)
+#
+1640#
+lhz_dun03 (1)
+#
+1641#
+lhz_dun03 (1)
+#
+1642#
+lhz_dun03 (1)
+#
+1643#
+lhz_dun03 (1)
+#
+1644#
+lhz_dun03 (1)
+#
+1645#
+lhz_dun03 (1)
+#
+1646#
+#
+1647#
+#
+1648#
+#
+1649#
+#
+1650#
+#
+1651#
+#
+1652#
+lhz_dun02 (50)
+lhz_dun01 (8)
+#
+1653#
+lhz_dun02 (50)
+lhz_dun01 (11)
+#
+1654#
+lhz_dun02 (50)
+lhz_dun01 (8)
+#
+1655#
+lhz_dun02 (50)
+lhz_dun01 (13)
+#
+1656#
+lhz_dun02 (50)
+lhz_dun01 (13)
+#
+1657#
+lhz_dun02 (50)
+lhz_dun01 (11)
+#
+1658#
+lhz_dun02 (1)
+#
+1659#
+#
+1660#
+#
+1661#
+#
+1662#
+#
+1663#
+#
+1664#
+#
+1665#
+#
+1666#
+#
+1667#
+#
+1668#
+jupe_core (40)
+#
+1669#
+jupe_core2 (100)
+#
+1670#
+jupe_core (40)
+juperos_01 (10)
+#
+1671#
+jupe_core (40)
+juperos_01 (5)
+#
+1672#
+jupe_core (40)
+juperos_01 (5)
+#
+1673#
+jupe_core (40)
+juperos_01 (5)
+#
+1674#
+#
+1675#
+#
+1676#
+juperos_01 (70)
+juperos_02 (65)
+jupe_core (25)
+#
+1677#
+juperos_01 (70)
+juperos_02 (65)
+jupe_core (25)
+#
+1678#
+juperos_01 (70)
+juperos_02 (65)
+jupe_core (25)
+#
+1679#
+juperos_01 (50)
+juperos_02 (50)
+#
+1680#
+ra_fild03 (130)
+ra_fild04 (130)
+ra_fild08 (20)
+#
+1681#
+lhz_dun02 (10)
+lhz_dun01 (1)
+#
+1682#
+lhz_dun01 (100)
+lhz_dun02 (20)
+#
+1683#
+#
+1684#
+#
+1685#
+jupe_core (1)
+#
+1686#
+gef_fild03 (20)
+gef_fild10 (20)
+#
+1687#
+cmd_fild01 (150)
+#
+1688#
+ayo_dun02 (1)
+#
+1689#
+#
+1690#
+#
+1691#
+#
+1692#
+lhz_fild03 (130)
+lhz_fild02 (40)
+odin_tem01 (10)
+#
+1693#
+odin_tem03 (20)
+odin_tem02 (15)
+odin_tem01 (10)
+tha_t12 (5)
+#
+1694#
+tha_t04 (20)
+tha_t05 (10)
+tha_t06 (10)
+tha_t09 (5)
+odin_tem01 (3)
+#
+1695#
+tha_t01 (20)
+tha_t05 (10)
+tha_t06 (10)
+tha_t11 (5)
+odin_tem01 (3)
+#
+1696#
+tha_t03 (20)
+tha_t05 (10)
+tha_t06 (10)
+odin_tem01 (3)
+#
+1697#
+tha_t02 (20)
+tha_t05 (10)
+tha_t06 (10)
+tha_t10 (5)
+odin_tem01 (3)
+#
+1698#
+tha_t03 (80)
+tha_t05 (40)
+tha_t06 (40)
+tha_t04 (20)
+tha_t02 (10)
+tha_t07 (10)
+tha_t08 (10)
+#
+1699#
+tha_t02 (80)
+tha_t05 (40)
+tha_t06 (40)
+tha_t04 (20)
+abyss_01 (10)
+abyss_02 (10)
+abyss_03 (10)
+tha_t03 (10)
+tha_t07 (10)
+tha_t08 (10)
+#
+1700#
+tha_t12 (13)
+tha_t07 (7)
+tha_t08 (5)
+tha_t09 (5)
+tha_t10 (5)
+tha_t11 (5)
+tha_t04 (4)
+#
+1701#
+tha_t11 (20)
+tha_t07 (7)
+tha_t08 (5)
+tha_t09 (5)
+tha_t10 (5)
+tha_t12 (5)
+tha_t03 (4)
+#
+1702#
+tha_t08 (20)
+tha_t10 (20)
+tha_t07 (15)
+tha_t09 (5)
+tha_t11 (5)
+tha_t12 (5)
+tha_t02 (4)
+#
+1703#
+tha_t09 (20)
+tha_t07 (7)
+tha_t08 (5)
+tha_t10 (5)
+tha_t11 (5)
+tha_t12 (5)
+tha_t01 (4)
+#
+1704#
+tha_t08 (2)
+#
+1705#
+tha_t07 (2)
+tha_t11 (1)
+#
+1706#
+tha_t06 (2)
+tha_t10 (1)
+#
+1707#
+tha_t05 (2)
+tha_t09 (1)
+#
+1708#
+#
+1709#
+tha_t12 (4)
+#
+1710#
+tha_t11 (3)
+#
+1711#
+tha_t10 (3)
+#
+1712#
+tha_t09 (3)
+#
+1713#
+abyss_03 (60)
+abyss_02 (10)
+#
+1714#
+abyss_02 (50)
+abyss_01 (30)
+abyss_03 (10)
+#
+1715#
+hu_fild01 (100)
+hu_fild02 (100)
+hu_fild05 (35)
+hu_fild04 (30)
+abyss_01 (9)
+abyss_02 (5)
+#
+1716#
+abyss_02 (60)
+abyss_03 (10)
+#
+1717#
+abyss_01 (55)
+abyss_03 (10)
+#
+1718#
+hu_fild05 (130)
+hu_fild04 (100)
+hu_fild01 (35)
+hu_fild02 (30)
+abyss_01 (9)
+abyss_02 (5)
+#
+1719#
+abyss_03 (1)
+#
+1720#
+abyss_03 (3)
+#
+1721#
+hu_fild02 (20)
+hu_fild04 (20)
+hu_fild05 (20)
+abyss_02 (10)
+abyss_03 (10)
+hu_fild01 (10)
+abyss_01 (8)
+#
+1722#
+#
+1723#
+#
+1724#
+#
+1725#
+#
+1726#
+#
+1727#
+#
+1728#
+#
+1729#
+#
+1730#
+#
+1731#
+#
+1732#
+#
+1733#
+#
+1734#
+kh_dun02 (1)
+#
+1735#
+kh_dun02 (30)
+kh_dun01 (3)
+kh_kiehl01 (1)
+#
+1736#
+kh_dun02 (25)
+kh_dun01 (3)
+kh_kiehl01 (2)
+#
+1737#
+kh_dun01 (45)
+kh_dun02 (10)
+kh_kiehl01 (1)
+#
+1738#
+kh_dun02 (15)
+kh_dun01 (8)
+#
+1739#
+kh_kiehl01 (5)
+#
+1740#
+kh_kiehl01 (7)
+#
+1741#
+#
+1742#
+#
+1743#
+#
+1744#
+#
+1745#
+kh_kiehl01 (10)
+kh_dun01 (5)
+kh_dun02 (5)
+#
+1746#
+kh_kiehl01 (4)
+#
+1747#
+#
+1748#
+#
+1749#
+#
+1750#
+#
+1751#
+odin_tem03 (1)
+#
+1752#
+odin_tem02 (30)
+odin_tem01 (5)
+odin_tem03 (4)
+#
+1753#
+odin_tem02 (30)
+odin_tem01 (5)
+odin_tem03 (4)
+#
+1754#
+odin_tem03 (16)
+odin_tem02 (1)
+#
+1755#
+odin_tem03 (16)
+odin_tem02 (1)
+#
+1756#
+#
+1757#
+#
+1758#
+#
+1759#
+#
+1760#
+#
+1761#
+odin_tem03 (5)
+odin_tem02 (2)
+#
+1762#
+odin_tem03 (5)
+odin_tem02 (3)
+#
+1763#
+#
+1764#
+#
+1765#
+odin_tem03 (2)
+#
+1766#
+#
+1767#
+#
+1768#
+ra_san05 (1)
+#
+1769#
+ra_san05 (80)
+ra_san04 (20)
+#
+1770#
+ra_san04 (60)
+ra_san05 (30)
+#
+1771#
+ra_san01 (82)
+ra_san02 (30)
+#
+1772#
+ra_san02 (85)
+ra_san01 (36)
+ra_san05 (10)
+#
+1773#
+ra_san03 (60)
+ra_san05 (20)
+ra_san04 (10)
+ra_san01 (6)
+ra_san02 (3)
+#
+1774#
+ra_san03 (40)
+ra_san05 (20)
+ra_san04 (10)
+ra_san02 (2)
+#
+1775#
+ice_dun02 (70)
+ice_dun03 (15)
+#
+1776#
+ice_dun01 (75)
+ice_dun02 (30)
+#
+1777#
+ice_dun03 (70)
+ice_dun02 (7)
+#
+1778#
+ice_dun03 (42)
+ice_dun02 (15)
+ice_dun01 (2)
+#
+1779#
+#
+1780#
+ve_fild04 (100)
+ve_fild03 (35)
+ve_fild07 (30)
+ve_fild01 (20)
+ve_fild02 (20)
+ice_dun01 (5)
+#
+1781#
+ve_fild02 (130)
+ve_fild04 (50)
+ve_fild07 (50)
+ve_fild03 (35)
+ve_fild01 (20)
+#
+1782#
+ra_fild12 (130)
+ra_fild08 (50)
+ra_fild01 (30)
+ra_fild03 (30)
+ra_fild04 (30)
+ice_dun01 (5)
+#
+1783#
+ve_fild01 (35)
+ve_fild04 (20)
+ve_fild02 (10)
+#
+1784#
+ve_fild07 (100)
+ve_fild01 (20)
+#
+1785#
+gld_dun03_2 (1)
+ra_fild03 (1)
+ra_fild04 (1)
+ve_fild01 (1)
+ve_fild02 (1)
+#
+1786#
+#
+1787#
+#
+1788#
+#
+1789#
+ice_dun03 (32)
+ice_dun02 (19)
+#
+1790#
+#
+1791#
+#
+1792#
+#
+1793#
+#
+1794#
+#
+1795#
+#
+1796#
+arug_dun01 (22)
+#
+1797#
+arug_dun01 (5)
+#
+1798#
+#
+1799#
+#
+1800#
+#
+1801#
+#
+1802#
+#
+1803#
+#
+1804#
+#
+1805#
+#
+1806#
+#
+1807#
+#
+1808#
+#
+1809#
+#
+1810#
+#
+1811#
+#
+1812#
+#
+1813#
+#
+1814#
+#
+1815#
+#
+1816#
+#
+1817#
+#
+1818#
+#
+1819#
+#
+1820#
+#
+1821#
+#
+1822#
+#
+1823#
+#
+1824#
+#
+1825#
+#
+1826#
+#
+1827#
+#
+1828#
+#
+1829#
+thor_v03 (20)
+thor_v01 (10)
+thor_v02 (1)
+#
+1830#
+thor_v03 (20)
+thor_v01 (10)
+thor_v02 (1)
+#
+1831#
+thor_v03 (60)
+thor_v01 (7)
+thor_v02 (1)
+#
+1832#
+thor_v03 (1)
+#
+1833#
+thor_v01 (45)
+thor_v03 (40)
+#
+1834#
+#
+1835#
+#
+1836#
+ve_fild03 (130)
+thor_v01 (10)
+thor_v02 (10)
+#
+1837#
+thor_v01 (25)
+thor_v02 (10)
+#
+1838#
+thor_v02 (55)
+#
+1839#
+thor_v03 (5)
+thor_v01 (1)
+#
+1840#
+#
+1841#
+#
+1842#
+#
+1843#
+#
+1844#
+#
+1845#
+#
+1846#
+#
+1847#
+#
+1848#
+#
+1849#
+#
+1850#
+#
+1851#
+#
+1852#
+#
+1853#
+#
+1854#
+#
+1855#
+#
+1856#
+#
+1857#
+#
+1858#
+#
+1859#
+#
+1860#
+#
+1861#
+#
+1862#
+#
+1863#
+#
+1864#
+abbey02 (210)
+abbey01 (30)
+nameless_n (12)
+#
+1865#
+abbey02 (70)
+abbey01 (33)
+nameless_n (12)
+#
+1866#
+abbey01 (25)
+nameless_n (17)
+#
+1867#
+abbey01 (93)
+abbey03 (30)
+nameless_n (16)
+#
+1868#
+#
+1869#
+abbey03 (25)
+abbey01 (21)
+abbey02 (21)
+nameless_n (3)
+#
+1870#
+abbey03 (60)
+arug_dun01 (18)
+abbey02 (7)
+#
+1871#
+abbey02 (1)
+#
+1872#
+#
+1873#
+abbey03 (1)
+#
+1874#
+#
+1875#
+#
+1876#
+#
+1877#
+#
+1878#
+#
+1879#
+#
+1880#
+mosk_dun01 (66)
+mosk_dun02 (30)
+#
+1881#
+mosk_dun02 (40)
+mosk_dun01 (33)
+#
+1882#
+mosk_dun03 (60)
+mosk_dun02 (20)
+#
+1883#
+mosk_dun03 (35)
+mosk_dun02 (5)
+#
+1884#
+mosk_dun03 (15)
+#
+1885#
+mosk_dun03 (1)
+#
+1886#
+#
+1887#
+mosk_que (10)
+#
+1888#
+mosk_que (3)
+#
+1889#
+#
+1890#
+#
+1891#
+#
+1892#
+#
+1893#
+#
+1894#
+mal_dun01 (30)
+#
+1895#
+#
+1896#
+#
+1897#
+#
+1898#
+#
+1899#
+#
+1900#
+#
+1901#
+#
+1902#
+#
+1903#
+#
+1904#
+#
+1905#
+#
+1906#
+#
+1907#
+#
+1908#
+#
+1909#
+#
+1910#
+#
+1911#
+#
+1912#
+#
+1913#
+#
+1914#
+#
+1915#
+#
+1916#
+#
+1917#
+moc_fild22 (1)
+#
+1918#
+moc_fild22 (60)
+moc_fild21 (46)
+moc_fild20 (1)
+#
+1919#
+moc_fild22 (60)
+moc_fild21 (46)
+moc_fild20 (1)
+#
+1920#
+moc_fild22 (60)
+moc_fild21 (46)
+moc_fild20 (1)
+#
+1921#
+moc_fild21 (34)
+moc_fild22 (25)
+moc_fild20 (1)
+#
+1922#
+#
+1923#
+#
+1924#
+#
+1925#
+#
+1926#
+#
+1927#
+#
+1928#
+#
+1929#
+#
+1930#
+#
+1931#
+#
+1932#
+que_qaru01 (17)
+que_qaru02 (17)
+que_qaru03 (17)
+que_qaru04 (17)
+que_qaru05 (17)
+que_qsch01 (17)
+que_qsch02 (17)
+que_qsch03 (17)
+que_qsch04 (17)
+que_qsch05 (17)
+#
+1933#
+que_qaru01 (28)
+que_qaru02 (28)
+que_qaru03 (28)
+que_qaru04 (28)
+que_qaru05 (28)
+que_qsch01 (28)
+que_qsch02 (28)
+que_qsch03 (28)
+que_qsch04 (28)
+que_qsch05 (28)
+#
+1934#
+#
+1935#
+#
+1936#
+#
+1937#
+#
+1938#
+#
+1939#
+#
+1940#
+#
+1941#
+#
+1942#
+#
+1943#
+#
+1944#
+#
+1945#
+#
+1946#
+#
+1947#
+#
+1948#
+#
+1949#
+#
+1950#
+#
+1951#
+#
+1952#
+#
+1953#
+#
+1954#
+#
+1955#
+#
+1956#
+#
+1957#
+#
+1958#
+#
+1959#
+#
+1960#
+#
+1961#
+#
+1962#
+#
+1963#
+#
+1964#
+#
+1965#
+#
+1966#
+#
+1967#
+#
+1968#
+#
+1969#
+#
+1970#
+#
+1971#
+#
+1972#
+#
+1973#
+#
+1974#
+arug_dun01 (22)
+#
+1975#
+arug_dun01 (22)
+#
+1976#
+schg_dun01 (15)
+#
+1977#
+schg_dun01 (15)
+#
+1978#
+schg_dun01 (20)
+#
+1979#
+schg_dun01 (20)
+#
+1980#
+#
+1981#
+#
+1982#
+#
+1983#
+#
+1984#
+#
+1985#
+#
+1986#
+dic_fild01 (25)
+dic_fild02 (25)
+man_fild02 (25)
+man_fild03 (25)
+#
+1987#
+#
+1988#
+man_fild01 (105)
+#
+1989#
+man_fild03 (25)
+man_fild01 (10)
+#
+1990#
+man_fild03 (1)
+#
+1991#
+spl_fild03 (1)
+#
+1992#
+spl_fild01 (25)
+spl_fild03 (25)
+bif_fild01 (17)
+bif_fild02 (16)
+#
+1993#
+spl_fild01 (35)
+spl_fild03 (20)
+#
+1994#
+spl_fild03 (35)
+bif_fild01 (29)
+bif_fild02 (27)
+spl_fild02 (15)
+#
+1995#
+spl_fild02 (75)
+#
+1997#
+#
+1998#
+#
+1999#
+dic_fild01 (30)
+man_fild01 (30)
+dic_fild02 (10)
+#
+2000#
+#
+2001#
+#
+2002#
+#
+2003#
+#
+2004#
+#
+2005#
+#
+2006#
+#
+2007#
+#
+2008#
+#
+2009#
+#
+2010#
+#
+2011#
+#
+2012#
+#
+2013#
+nyd_dun01 (40)
+#
+2014#
+nyd_dun01 (10)
+#
+2015#
+spl_fild01 (50)
+nyd_dun01 (10)
+#
+2016#
+nyd_dun01 (20)
+#
+2017#
+nyd_dun01 (2)
+#
+2018#
+nyd_dun01 (2)
+#
+2019#
+#
+2020#
+#
+2021#
+#
+2022#
+#
+2023#
+#
+2024#
+man_fild02 (50)
+dic_fild02 (3)
+#
+2025#
+#
+2026#
+#
+2027#
+#
+2030#
+#
+2031#
+#
+2032#
+#
+2033#
+#
+2035#
+#
+2036#
+#
+2039#
+#
+2040#
+#
+2041#
+#
+2042#
+#
+2043#
+#
+2044#
+#
+2045#
+#
+2046#
+#
+2047#
+spl_fild02 (20)
+#
+2048#
+#
+2049#
+spl_fild02 (20)
+#
+2050#
+#
+2052#
+#
+2057#
+alb_ship (25)
+#
+2066#
+#
+2067#
+#
+2068#
+bra_dun02 (1)
+#
+2069#
+bra_dun02 (110)
+bra_dun01 (30)
+#
+2070#
+bra_dun01 (80)
+bra_dun02 (60)
+#
+2071#
+bra_fild01 (40)
+#
+2072#
+bra_fild01 (55)
+#
+2073#
+bra_fild01 (60)
+#
+2074#
+bra_fild01 (50)
+#
+2075#
+#
+2076#
+tur_dun03 (1)
+#
+2077#
+ice_dun02 (1)
+#
+2078#
+niflheim (1)
+#
+2079#
+#
+2080#
+#
+2081#
+brasilis (18)
+#
+2082#
+#
+2083#
+dic_dun01 (50)
+#
+2084#
+dic_dun01 (45)
+#
+2085#
+dic_dun02 (50)
+#
+2086#
+dic_dun02 (45)
+#
+2087#
+dic_dun02 (1)
+#
+2088#
+dic_dun01 (15)
+#
+2089#
+dic_dun01 (15)
+#
+2090#
+dic_dun02 (15)
+#
+2091#
+dic_dun02 (15)
+#
+2092#
+dic_fild02 (80)
+dic_fild01 (20)
+#
+2093#
+#
+2094#
+#
+2095#
+#
+2096#
+#
+2097#
+#
+2098#
+#
+2099#
+#
+2100#
+#
+2101#
+#
+2102#
+#
+2103#
+#
+2104#
+#
+2105#
+#
+2106#
+#
+2107#
+#
+2108#
+#
+2109#
+#
+2110#
+#
+2111#
+#
+2112#
+#
+2113#
+#
+2126#
+#
+2127#
+#
+2128#
+#
+2129#
+#
+2130#
+#
+2131#
+#
+2132#
+bif_fild01 (5)
+bif_fild02 (5)
+#
+2133#
+gld2_ald (70)
+gld_dun02_2 (40)
+bif_fild01 (5)
+bif_fild02 (5)
+#
+2134#
+#
+2135#
+#
+2136#
+bif_fild02 (55)
+bif_fild01 (34)
+#
+2137#
+bif_fild01 (58)
+bif_fild02 (33)
+#
+2138#
+#
+2139#
+#
+2140#
+#
+2141#
+#
+2142#
+#
+2143#
+#
+2144#
+#
+2145#
+#
+2146#
+#
+2147#
+#
+2148#
+#
+2149#
+#
+2150#
+#
+2151#
+dew_fild01 (60)
+#
+2152#
+dew_dun01 (70)
+#
+2153#
+dew_fild01 (10)
+#
+2154#
+dew_dun02 (50)
+#
+2155#
+dew_dun02 (30)
+#
+2156#
+dew_dun01 (1)
+#
+2157#
+#
+2158#
+#
+2159#
+#
+2160#
+#
+2161#
+dic_dun03 (30)
+#
+2162#
+dic_dun03 (30)
+#
+2163#
+dic_dun03 (40)
+#
+2164#
+dic_dun03 (40)
+#
+2165#
+dic_dun03 (1)
+#
+2166#
+dic_dun03 (10)
+#
+2167#
+dic_dun03 (10)
+#
+2168#
+dic_dun03 (10)
+#
+2169#
+dic_dun03 (10)
+#
+2170#
+#
+2171#
+#
+2172#
+#
+2173#
+#
+2174#
+#
+2175#
+#
+2176#
+#
+2177#
+#
+2178#
+#
+2179#
+#
+2180#
+#
+2181#
+#
+2182#
+#
+2183#
+#
+2184#
+#
+2185#
+#
+2186#
+#
+2187#
+#
+2188#
+#
+2189#
+#
+2190#
+#
+2191#
+#
+2192#
+#
+2193#
+#
+2194#
+#
+2195#
+#
+2196#
+#
+2197#
+mal_dun01 (60)
+#
+2198#
+iz_dun05 (25)
+#
+2199#
+mal_dun01 (45)
+#
+2200#
+#
+2201#
+iz_dun05 (50)
+#
+2202#
+iz_dun05 (1)
+#
+2203#
+iz_dun05 (30)
+#
+2204#
+iz_dun05 (60)
+#
+2206#
+#
+2208#
+mal_dun01 (1)
+#
+2209#
+#
+2210#
+#
+2211#
+#
+2212#
+#
+2213#
+#
+2214#
+#
+2215#
+#
+2216#
+#
+2217#
+#
+2218#
+#
+2219#
+#
+2220#
+#
+2221#
+lhz_dun04 (42)
+#
+2222#
+lhz_dun04 (42)
+#
+2223#
+lhz_dun04 (81)
+#
+2224#
+lhz_dun04 (42)
+#
+2225#
+lhz_dun04 (57)
+#
+2226#
+lhz_dun04 (42)
+#
+2227#
+lhz_dun04 (42)
+#
+2228#
+lhz_dun04 (1)
+#
+2229#
+lhz_dun04 (1)
+#
+2230#
+lhz_dun04 (1)
+#
+2231#
+lhz_dun04 (1)
+#
+2232#
+lhz_dun04 (1)
+#
+2233#
+lhz_dun04 (1)
+#
+2234#
+lhz_dun04 (1)
+#
+2235#
+#
+2236#
+#
+2237#
+#
+2238#
+#
+2239#
+#
+2240#
+#
+2241#
+#
+2242#
+#
+2243#
+#
+2244#
+#
+2245#
+#
+2246#
+#
+2247#
+#
+2248#
+#
+2249#
+gld2_prt (1)
+#
+2250#
+gld2_prt (1)
+#
+2251#
+gld2_ald (1)
+#
+2252#
+gld2_ald (1)
+#
+2253#
+gld2_pay (1)
+#
+2254#
+gld2_pay (1)
+#
+2255#
+gld2_gef (1)
+#
+2256#
+gld2_gef (1)
+#
+2257#
+#
+2258#
+#
+2259#
+#
+2260#
+#
+2261#
+#
+2262#
+#
+2263#
+#
+2264#
+#
+2265#
+#
+2266#
+#
+2267#
+#
+2268#
+#
+2269#
+#
+2270#
+#
+2271#
+#
+2272#
+#
+2273#
+#
+2274#
+#
+2275#
+#
+2276#
+#
+2277#
+#
+2278#
+#
+2279#
+#
+2280#
+#
+2281#
+gld2_gef (80)
+gld_dun04_2 (45)
+#
+2282#
+gld2_gef (20)
+gld_dun04_2 (15)
+#
+2283#
+gld2_gef (20)
+gld_dun04_2 (15)
+#
+2284#
+gld2_prt (25)
+gld_dun03_2 (13)
+#
+2285#
+gld2_prt (35)
+gld_dun03_2 (23)
+#
+2286#
+gld2_prt (35)
+gld_dun03_2 (23)
+#
+2287#
+gld2_prt (35)
+gld_dun03_2 (23)
+#
+2288#
+gld2_pay (5)
+gld2_ald (5)
+gld2_prt (5)
+gld2_gef (5)
+#
+2289#
+#
+2290#
+#
+2291#
+#
+2292#
+#
+2293#
+#
+2294#
+#
+2295#
+#
+2296#
+#
+2297#
+#
+2298#
+#
+2299#
+#
+2300#
+#
+2301#
+#
+2302#
+#
+2303#
+#
+2304#
+#
+2305#
+#
+2306#
+#
+2307#
+#
+2308#
+#
+2309#
+ma_fild02 (40)
+#
+2310#
+ma_fild02 (25)
+#
+2311#
+ma_dun01 (40)
+#
+2312#
+ma_fild02 (30)
+#
+2313#
+ma_fild01 (50)
+#
+2314#
+ma_fild01 (50)
+ma_dun01 (40)
+#
+2315#
+ma_dun01 (30)
+ma_fild02 (25)
+#
+2316#
+ma_fild01 (30)
+ma_fild02 (20)
+#
+2317#
+#
+2318#
+#
+2319#
+#
+2320#
+#
+2321#
+#
+2322#
+#
+2323#
+#
+2324#
+#
+2325#
+#
+2326#
+#
+2327#
+#
+2328#
+#
+2329#
+#
+2330#
+#
+2331#
+#
+2332#
+#
+2333#
+#
+2334#
+#
+2335#
+#
+2336#
+#
+2337#
+#
+2338#
+#
+2339#
+#
+2340#
+#
+2341#
+#
+2342#
+#
+2343#
+#
+2344#
+#
+2345#
+#
+2346#
+#
+2347#
+#
+2348#
+#
+2349#
+#
+2350#
+#
+2351#
+#
+2352#
+#
+2353#
+moc_prydn1 (60)
+#
+2354#
+moc_prydn1 (10)
+#
+2355#
+moc_prydn1 (50)
+moc_prydn2 (30)
+#
+2356#
+moc_prydn2 (30)
+#
+2357#
+#
+2358#
+moc_prydn2 (20)
+#
+2359#
+#
+2360#
+moc_prydn2 (20)
+#
+2361#
+#
+2362#
+moc_prydn2 (1)
+#
+2363#
+ecl_fild01 (60)
+#
+2364#
+ecl_fild01 (20)
+#
+2365#
+ecl_tdun03 (15)
+ecl_tdun02 (10)
+ecl_tdun01 (5)
+#
+2366#
+ecl_tdun03 (15)
+ecl_tdun02 (10)
+ecl_tdun01 (5)
+#
+2367#
+ecl_tdun02 (15)
+ecl_tdun01 (5)
+ecl_tdun03 (5)
+#
+2368#
+ecl_tdun03 (15)
+ecl_tdun02 (5)
+#
+2369#
+ecl_tdun03 (10)
+#
+2370#
+ecl_tdun03 (15)
+#
+2371#
+ecl_tdun03 (5)
+#
+2372#
+#
+2373#
+#
+2374#
+#
+2375#
+#
+2376#
+#
+2377#
+#
+2378#
+#
+2379#
+#
+2380#
+#
+2398#
+#
+2401#
+#
+2402#
+#
+2403#
+#
+2404#
+#
+2405#
+#
+2406#
+#
+2407#
+#
+2408#
+#
+2409#
+prontera (2)
+#
+2410#
+prontera (2)
+#
+2411#
+prontera (2)
+#
+2413#
+#
+2464#
+#
+2465#
+#
+2466#
+#
+2467#
+#
+2468#
+#
+2469#
+#
+2470#
+#
+2471#
+#
+2472#
+#
+2473#
+#
+2474#
+#
+2475#
+#
+2476#
+#
+2603#
+abbey02 (2)
+#
+2604#
+gl_prison (2)
+#
+2605#
+gld_dun04 (2)
+#
+2606#
+pay_dun00 (2)
+#
+2607#
+schg_dun01 (2)
+#
+2608#
+prt_fild03 (2)
+#
+2609#
+ayo_fild02 (2)
+#
+2610#
+pay_fild06 (2)
+#
+2611#
+um_fild02 (2)
+#
+2612#
+mosk_dun01 (2)
+#
+2613#
+moc_fild03 (2)
+#
+2614#
+gl_step (2)
+#
+2615#
+pay_fild01 (2)
+#
+2616#
+um_fild04 (2)
+#
+2617#
+gon_dun03 (2)
+#
+2618#
+gl_sew01 (2)
+#
+2619#
+treasure_n2 (2)
+#
+2620#
+gl_cas02 (2)
+#
+2621#
+gefenia04 (2)
+#
+2622#
+gefenia03 (2)
+#
+2623#
+gefenia02 (2)
+#
+2624#
+ein_fild04 (2)
+#
+2625#
+juperos_01 (2)
+#
+2626#
+mosk_dun03 (2)
+#
+2627#
+ra_san01 (2)
+#
+2628#
+iz_dun01 (2)
+#
+2629#
+ein_fild02 (2)
+#
+2630#
+bra_fild01 (2)
+#
+2631#
+ma_fild01 (2)
+#
+2632#
+prt_sewb4 (2)
+#
+2633#
+prt_sewb3 (2)
+#
+2634#
+prt_sewb2 (2)
+#
+2635#
+beach_dun3 (2)
+#
+2636#
+ein_fild03 (2)
+#
+2637#
+man_fild03 (2)
+#
+2638#
+mjo_dun01 (2)
+#
+2639#
+ayo_dun02 (2)
+#
+2640#
+gl_sew03 (2)
+#
+2641#
+lhz_fild02 (2)
+#
+2642#
+moc_fild13 (2)
+#
+2643#
+ve_fild07 (2)
+#
+2644#
+beach_dun2 (2)
+#
+2645#
+prt_fild02 (2)
+#
+2646#
+treasure_n1 (2)
+#
+2647#
+tur_dun02 (2)
+#
+2648#
+pay_dun02 (2)
+#
+2649#
+pay_dun01 (2)
+#
+2650#
+tha_t09 (2)
+#
+2651#
+pay_dun03 (2)
+#
+2652#
+ice_dun02 (2)
+#
+2653#
+pay_fild02 (2)
+#
+2654#
+ayo_fild01 (2)
+#
+2655#
+yuno_fild06 (2)
+#
+2656#
+yuno_fild02 (2)
+#
+2657#
+odin_tem02 (2)
+#
+2658#
+gld2_pay (2)
+#
+2659#
+gld_dun01_2 (2)
+#
+2660#
+mjo_dun03 (2)
+#
+2661#
+ice_dun01 (2)
+#
+2662#
+mosk_fild02 (2)
+#
+2663#
+mjolnir_03 (2)
+#
+2664#
+ama_dun03 (2)
+#
+2665#
+tha_t11 (2)
+#
+2666#
+hu_fild06 (2)
+#
+2667#
+lhz_dun03 (2)
+#
+2668#
+cmd_fild04 (2)
+#
+2669#
+iz_dun05 (2)
+#
+2670#
+moc_fild18 (2)
+#
+2671#
+mjolnir_09 (2)
+#
+2672#
+prt_maze01 (2)
+#
+2673#
+mjolnir_07 (2)
+#
+2674#
+moc_fild16 (2)
+#
+2675#
+thor_v03 (2)
+#
+2676#
+treasure01 (2)
+#
+2677#
+ra_fild12 (2)
+#
+2678#
+prt_fild00 (2)
+#
+2679#
+gef_fild01 (2)
+#
+2680#
+prt_fild07 (2)
+#
+2681#
+tha_t01 (2)
+#
+2682#
+c_tower1 (2)
+#
+2683#
+gon_fild01 (2)
+#
+2684#
+tha_t10 (2)
+#
+2685#
+tha_t08 (2)
+#
+2686#
+tha_t07 (2)
+#
+2687#
+in_sphinx2 (2)
+#
+2688#
+lhz_dun01 (2)
+#
+2689#
+mal_dun01 (2)
+#
+2690#
+gl_knt02 (2)
+#
+2691#
+gl_knt01 (2)
+#
+2692#
+lhz_dun02 (2)
+#
+2693#
+dic_dun03 (2)
+#
+2694#
+cmd_fild07 (2)
+#
+2695#
+lhz_fild01 (2)
+#
+2696#
+lhz_fild01 (2)
+#
+2697#
+lhz_fild01 (2)
+#
+2698#
+lhz_fild01 (2)
+#
+2699#
+gef_fild07 (2)
+#
+2700#
+ein_fild09 (2)
+#
+2701#
+prt_maze03 (2)
+#
+2702#
+prt_maze02 (2)
+#
+2703#
+pay_fild04 (2)
+#
+2704#
+ama_dun02 (2)
+#
+2705#
+mjolnir_06 (2)
+#
+2706#
+odin_tem03 (2)
+#
+2707#
+iz_dun00 (2)
+#
+2708#
+ein_dun01 (2)
+#
+2709#
+bra_dun01 (2)
+#
+2710#
+spl_fild01 (2)
+#
+2711#
+spl_fild02 (2)
+#
+2712#
+moc_fild12 (2)
+#
+2713#
+iz_dun03 (2)
+#
+2714#
+gef_fild08 (2)
+#
+2715#
+gef_fild06 (2)
+#
+2716#
+treasure02 (2)
+#
+2717#
+alde_dun03 (2)
+#
+2718#
+moc_fild02 (2)
+#
+2719#
+#
+2720#
+um_fild03 (2)
+#
+2721#
+tha_t05 (2)
+#
+2722#
+gef_fild10 (2)
+#
+2723#
+orcsdun01 (2)
+#
+2724#
+orcsdun02 (2)
+#
+2725#
+#
+2726#
+tha_t12 (2)
+#
+2727#
+ein_fild05 (2)
+#
+2728#
+hu_fild05 (2)
+#
+2729#
+hu_fild04 (2)
+#
+2730#
+hu_fild02 (2)
+#
+2731#
+hu_fild01 (2)
+#
+2732#
+mag_dun02 (2)
+#
+2733#
+gl_chyard_ (2)
+#
+2734#
+gl_cas02_ (2)
+#
+2735#
+man_fild01 (2)
+#
+2736#
+abbey03 (2)
+#
+2737#
+xmas_dun02 (2)
+#
+2738#
+ve_fild04 (2)
+#
+2739#
+moc_pryd03 (2)
+#
+2740#
+moc_pryd02 (2)
+#
+2741#
+moc_fild01 (2)
+#
+2742#
+moc_fild22 (2)
+#
+2743#
+moc_fild21 (2)
+#
+2744#
+moc_fild20 (2)
+#
+2745#
+ein_fild06 (2)
+#
+2746#
+ama_dun01 (2)
+#
+2747#
+moc_prydn1 (2)
+#
+2748#
+moc_pryd05 (2)
+#
+2749#
+in_sphinx4 (2)
+#
+2750#
+ein_dun02 (2)
+#
+2751#
+bif_fild01 (2)
+#
+2752#
+moc_prydn2 (2)
+#
+2753#
+moc_pryd06 (2)
+#
+2754#
+cmd_fild09 (2)
+#
+2755#
+ein_fild08 (2)
+#
+2756#
+ein_fild07 (2)
+#
+2757#
+iz_dun04 (2)
+#
+2758#
+ecl_fild01 (2)
+#
+2759#
+beach_dun (2)
+#
+2760#
+mjo_dun02 (2)
+#
+2761#
+gl_in01 (2)
+#
+2762#
+xmas_fild01 (2)
+#
+2763#
+in_sphinx3 (2)
+#
+2764#
+prt_maze03 (2)
+#
+2765#
+gef_fild04 (2)
+#
+2766#
+ma_dun01 (2)
+#
+2767#
+gl_dun02 (2)
+#
+2768#
+prt_fild09 (2)
+#
+2769#
+ve_fild03 (2)
+#
+2770#
+prt_fild08 (2)
+#
+2771#
+prt_fild01 (2)
+#
+2772#
+niflheim (2)
+#
+2773#
+spl_fild03 (2)
+#
+2774#
+nif_fild02 (2)
+#
+2775#
+gon_dun02 (2)
+#
+2776#
+new_1-3 (2)
+#
+2777#
+bif_fild02 (2)
+#
+2778#
+lou_dun01 (2)
+#
+2779#
+mosk_dun02 (2)
+#
+2780#
+gld_dun01 (2)
+#
+2781#
+ayo_dun01 (2)
+#
+2784#
+ra_fild06 (2)
+#
+2785#
+ra_fild05 (2)
+#
+2786#
+thor_v02 (2)
+#
+2787#
+mjolnir_08 (2)
+#
+2788#
+thor_v01 (2)
+#
+2789#
+ama_fild01 (2)
+#
+2790#
+moc_pryd04 (2)
+#
+2791#
+ra_san02 (2)
+#
+2792#
+gl_prison1 (2)
+#
+2793#
+lou_fild01 (2)
+#
+2794#
+ice_dun03 (2)
+#
+2795#
+bra_dun02 (2)
+#
+2796#
+lou_dun02 (2)
+#
+2797#
+gef_dun00 (2)
+#
+2798#
+prt_fild05 (2)
+#
+2799#
+dic_dun01 (2)
+#
+2800#
+pay_fild09 (2)
+#
+2801#
+ra_san03 (2)
+#
+2802#
+moc_fild17 (2)
+#
+2803#
+ra_fild04 (2)
+#
+2804#
+ra_fild03 (2)
+#
+2805#
+alde_dun02 (2)
+#
+2806#
+yuno_fild04 (2)
+#
+2807#
+yuno_fild03 (2)
+#
+2808#
+cmd_fild01 (2)
+#
+2809#
+pay_fild10 (2)
+#
+2810#
+yuno_fild09 (2)
+#
+2811#
+yuno_fild08 (2)
+#
+2812#
+cmd_fild06 (2)
+#
+2813#
+prt_fild11 (2)
+#
+2814#
+gef_fild11 (2)
+#
+2815#
+yuno_fild11 (2)
+#
+2816#
+yuno_fild07 (2)
+#
+2817#
+gld2_prt (2)
+#
+2818#
+gld_dun03_2 (2)
+#
+2819#
+gld2_gef (2)
+#
+2820#
+gld_dun04_2 (2)
+#
+2821#
+gld_dun02 (2)
+#
+2822#
+nameless_n (2)
+#
+2823#
+gef_dun01 (2)
+#
+2824#
+yuno_fild12 (2)
+#
+2825#
+yuno_fild01 (2)
+#
+2826#
+glast_01 (2)
+#
+2827#
+gl_sew02 (2)
+#
+2828#
+ve_fild01 (2)
+#
+2829#
+cmd_fild02 (2)
+#
+2830#
+tur_dun05 (2)
+#
+2831#
+tur_dun03 (2)
+#
+2832#
+abyss_01 (2)
+#
+2833#
+prt_sewb1 (2)
+#
+2834#
+gefenia01 (2)
+#
+2835#
+prt_fild06 (2)
+#
+2836#
+pay_fild03 (2)
+#
+2837#
+mag_dun01 (2)
+#
+2838#
+gl_church (2)
+#
+2839#
+prt_fild10 (2)
+#
+2840#
+mjolnir_02 (2)
+#
+2841#
+ra_san04 (2)
+#
+2842#
+mjolnir_12 (2)
+#
+2843#
+um_fild01 (2)
+#
+2844#
+ve_fild02 (2)
+#
+2845#
+moc_fild07 (2)
+#
+2846#
+mjolnir_04 (2)
+#
+2847#
+in_sphinx1 (2)
+#
+2848#
+tur_dun01 (2)
+#
+2849#
+nyd_dun01 (2)
+#
+2850#
+dic_fild02 (2)
+#
+2851#
+pay_dun04 (2)
+#
+2852#
+nif_fild01 (2)
+#
+2853#
+jupe_core (2)
+#
+2854#
+gef_dun02 (2)
+#
+2855#
+ra_fild01 (2)
+#
+2856#
+moc_fild11 (2)
+#
+2857#
+cmd_fild08 (2)
+#
+2858#
+tha_t06 (2)
+#
+2859#
+tha_t04 (2)
+#
+2860#
+tha_t03 (2)
+#
+2861#
+gl_chyard (2)
+#
+2862#
+lou_dun03 (2)
+#
+2863#
+gef_fild05 (2)
+#
+2864#
+iz_dun02 (2)
+#
+2865#
+xmas_dun01 (2)
+#
+2866#
+kh_kiehl01 (2)
+#
+2867#
+dew_dun01 (2)
+#
+2868#
+gef_fild09 (2)
+#
+2869#
+gef_fild02 (2)
+#
+2870#
+c_tower4 (2)
+#
+2871#
+c_tower2 (2)
+#
+2872#
+gef_fild00 (2)
+#
+2873#
+dic_fild01 (2)
+#
+2874#
+ecl_tdun01 (2)
+#
+2875#
+lhz_dun04 (2)
+#
+2876#
+gld_dun03 (2)
+#
+2877#
+gl_cas01 (2)
+#
+2878#
+mjolnir_01 (2)
+#
+2879#
+ma_fild02 (2)
+#
+2880#
+odin_tem01 (2)
+#
+2881#
+lhz_fild03 (2)
+#
+2882#
+man_fild02 (2)
+#
+2883#
+gon_dun01 (2)
+#
+2884#
+pay_fild07 (2)
+#
+2885#
+alde_dun04 (2)
+#
+2886#
+arug_dun01 (2)
+#
+2887#
+abbey01 (2)
+#
+2888#
+dew_dun02 (2)
+#
+2889#
+tur_dun04 (2)
+#
+2890#
+mjolnir_10 (2)
+#
+2891#
+mjolnir_11 (2)
+#
+2892#
+mjolnir_05 (2)
+#
+2893#
+gl_dun01 (2)
+#
+2894#
+alde_dun01 (2)
+#
+2895#
+juperos_02 (2)
+#
+2896#
+dic_dun02 (2)
+#
+2897#
+ecl_tdun03 (2)
+#
+2898#
+ecl_tdun02 (2)
+#
+2899#
+gl_sew04 (2)
+#
+2900#
+gld2_ald (2)
+#
+2901#
+gld_dun02_2 (2)
+#
+2902#
+anthell02 (2)
+#
+2903#
+tha_t02 (2)
+#
+2904#
+ra_fild08 (2)
+#
+2905#
+prt_fild04 (2)
+#
+2906#
+dew_fild01 (2)
+#
+2907#
+cmd_fild03 (2)
+#
+2908#
+kh_dun01 (2)
+#
+2909#
+kh_dun02 (2)
+#
+2910#
+c_tower3 (2)
+#
+2911#
+ra_san05 (2)
+#
+2912#
+abyss_03 (2)
+#
+2913#
+abyss_02 (2)
+#
+2924#
+#
+2925#
+#
+2926#
+#
+2927#
+#
+2928#
+#
+2929#
+#
+2930#
+#
+2931#
+#
+2932#
+#
+2933#
+#
+2934#
+#
+2935#
+#
+2936#
+#
+3202#
+#
+3203#
+#
