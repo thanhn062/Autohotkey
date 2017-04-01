@@ -1,7 +1,7 @@
 # Mappin' Auto Cast Ragnarok Online (M.A.C.R.O)
 Let user assign a macro to a button by drag the thumbnail image into the desired keyboard button.
 
-blog post: [http://ragindex.blogspot.com](http://ragindex.blogspot.com/2016/09/new-mappin-auto-cast-ragnarok-online.html)
+blog post: [http://ragindex.blogspot.com/2016/09/new-mappin-auto-cast-ragnarok-online.html](http://ragindex.blogspot.com/2016/09/new-mappin-auto-cast-ragnarok-online.html)
 
 ## Description
 **M.A.C.R.O Setting.ahk** - A GUI to help user configure 'M.A.C.R.O.ini'
