@@ -9,3 +9,4 @@ I seperated the script here to maximize in-game performance.
 
 # Picture
 [![GUI](http://s19.postimg.io/bly1ptpkj/macro_demo.png)]
+![alt tag](http://s19.postimg.io/bly1ptpkj/macro_demo.png "Description goes here")
