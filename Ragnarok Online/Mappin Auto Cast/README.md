@@ -8,4 +8,4 @@ M.A.C.R.O.ahk - Read from 'M.A.C.R.O.ini' and assign macro to keyboard buttons
 I seperated the script here to maximize in-game performance.
 
 # Picture
-[![GUI](http://s19.postimg.io/bly1ptpkj/macro_demo.png "Screenshot")]
+[![GUI](https://github.com/thanhn062/Autohotkey/blob/master/Ragnarok%20Online/Mappin%20Auto%20Cast/screen_shot.png?raw=true "Screenshot")]
