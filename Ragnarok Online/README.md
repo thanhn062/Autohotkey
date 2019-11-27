@@ -3,4 +3,4 @@ blog: [http://ragindex.blogspot.com](http://ragindex.blogspot.com)
 
 1. **Auto Potion** - watch HP & MP and use potion
 2. **Mappin Auto Cast** - customizable gaming macros
-3. **Raingdex** - game mob & item search engine
+3. **Ragindex** - game mob & item search engine
