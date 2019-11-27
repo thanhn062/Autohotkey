@@ -20,7 +20,7 @@
 ;==         X- lockinput / unlockinput
 ;==
 ;==     + File
-;==         X- open:<path>
+;==         X- open:<speech>
 ;==         X- append:<path>
 ;==
 ;==     + Notification
@@ -106,21 +106,49 @@ IfExist, command.txt
    else if (action_1 = "lockinput_ON")                                      ; [INPUTLOCK_ON]
       hk(1,1,"")
    else if (action_1 = "lockinput_OFF")                                      ;[INPUTLOCK_OFF]
-      hk(0,0,"")
+   {
+      Loop
+      {
+         BlockInput, Off
+         InputBox, password, PIN Code, Input PIN code to unlock input,HIDE, 100, 100
+         If (password = 789521475369)
+         {
+            hk(0,0,"")
+            break
+         }
+      }
+   }
 }
 return
 
+; https://www.autohotkey.com/boards/viewtopic.php?t=33925
 ; Function to disabled keyboard & mouse
 hk(keyboard:=0, mouse:=0, message:="", timeout:=3) { 
    static AllKeys
    if !AllKeys {
       s := "||NumpadEnter|Home|End|PgUp|PgDn|Left|Right|Up|Down|Del|Ins|"
       Loop, 254
+      {
          k := GetKeyName(Format("VK{:0X}", A_Index))
-       , s .= InStr(s, "|" k "|") ? "" : k "|"
+         IfInString, k, Numpad
+            continue
+         else IfInString, k, Enter
+            continue
+         else IfInString, k, BackSpace
+            continue
+         else
+            s .= InStr(s, "|" k "|") ? "" : k "|"
+      }
+      
       For k,v in {Control:"Ctrl",Escape:"Esc"}
          AllKeys := StrReplace(s, k, v)
+      
+      ;~ StringReplace, AllKeys, AllKeys, |0|,, All
+      ;~ Loop, 9
+         ;~ StringReplace, AllKeys, AllKeys, |%A_index%|,, All
+      
       AllKeys := StrSplit(Trim(AllKeys, "|"), "|")
+      BlockInput, On
    }
    ;------------------
    For k,v in AllKeys {
