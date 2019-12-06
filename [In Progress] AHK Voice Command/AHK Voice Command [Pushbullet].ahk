@@ -2,6 +2,11 @@
 ;==             Title: Autohotkey Voice Command
 ;==             Author: Thanh Ngo
 ;==             Date: 11/25/2019
+;==             Description: A way to control your computer freely with autohotokey combine with voice command
+;==				example:
+;==				Google Home / Alexa > IFTTT > Pushbullet > Autohotkey
+;==				I've seen other use OneDrive, Google Drive, Dropbox
+;==				but i've notice the delay is like 3-4 secs, with pushbullet you can trigger your command in an instant.
 ;==============================
 ;==             Manual
 ;==============================
@@ -30,47 +35,46 @@
 ;==
 ;==     +Voice Type
 ;==         X speech2text
+;==		+ Keyboard
+;==			- send|
 ;==============================
 ;~ SendMessage 0x112, 0xF140, 0, , Program Manager  ; Start screensaver
 ;~ SendMessage 0x112, 0xF170, 2, , Program Manager  ; Monitor off
-    
 
+;~ #SingleInstance
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
-SetWorkingDir C:\Users\thanh_\OneDrive\AHKVC\  ; Ensures a consistent starting directory.
+;~ SetWorkingDir C:\Users\thanh_\OneDrive\AHKVC\  ; Ensures a consistent starting directory.
 #Persistent
-if not A_IsAdmin
-{
-   Run *RunAs "%A_ScriptFullPath%"  ; Run as Admin
-   ExitApp
-}
-SetTimer, OneDrive, 250  ; Set timer for script to check one the command folder everything 250ms or a quarter of a seconds (you can change this)
+;~ if not A_IsAdmin
+;~ {
+   ;~ Run *RunAs "%A_ScriptFullPath%"  ; Run as Admin
+   ;~ ExitApp
+;~ }
+token = o.YUPl30LQrLl3xo5qAABMokwvAEVUtQze
+time = 0
+FileDelete, output.txt
+SetTimer, PushBullet, 1000  ; Set timer for script to check one the command folder everything 500ms/ half a seconds (you can change this)
 return
 
-F5::ExitApp
-OneDrive:
-; Reset variable
-action =
-action_1 =
-action_2 =
 
-; Checking for new commands.    
-IfExist, command.txt
+PushBullet:
+action := getPush()
+if (action)
 {
-   FileReadLine, action, command.txt, 1                                 ; Read 1st line of .txt (action)
-   if (action)                                                                               ; wait until variable is fill
-      FileDelete, command.txt                                                   ; Delete command, and wait for new command.
-   StringSplit, action_, action, |
-   
-   ;    VOICE
+	IfInString, action, message box
+	{
+		pos := RegExMatch(action, "box(.*)", msg)
+		StringTrimLeft, msg, msg, 4
+		MsgBox % msg
+	}
+
+	/*
+   StringSplit, action_, action, |													; Split action parameters
+   ; VOICE
    if (action_1 = "speech2text")                                                ; [SPEECH2TEXT]
       Send %action_2%
-   ;    MESSAGE BOX
-   else if (action_1 = "msgbox")                                                 ; [MSGBOX]|<text>
-      MsgBox,,, %action_2%
-   else if (action_1 = "noti")                                                      ; [NOTI]|<text>
-      TrayTip, AHK Voice Command, %action_2%
    ;    FILE
    else if (action_1 = "open")                                                  ; [OPEN] <speech >
       Run, %action_2%
@@ -123,7 +127,35 @@ IfExist, command.txt
       Send, {%action_2%}
       
 }
+*/
+}
 return
+
+; ====== FUNCTIONS ========
+getPush() {
+	global token, time
+	; Run REQUEST curl for latest message
+		Run, %comspec% /c curl -u %token%: https://api.pushbullet.com/v2/pushes?limit=1 -o output.txt,,hide
+		IfExist, output.txt
+			while (!output)
+				FileReadLine, output, output.txt, 1									; Make sure the variable is loaded into var
+		FileDelete, output.txt																; Delete 
+		pos := RegExMatch(output, "modified(.*)type", modified)	; RegExMatch to look for timestamp
+		StringTrimRight, modified, modified, 6									; Clean up the variable
+		StringTrimLeft, modified, modified, 11
+
+		pos := RegExMatch(output, "body(.*)}]", action)					; RegExMatch to look for message content
+		StringTrimRight, action, action, 3											; Clean up the variable
+		StringTrimLeft, action, action, 7
+		
+		if time = 0
+			time := modified
+		else if (time != modified)															; If timestamp do NOT match
+		{
+			time := modified																	; Update latest timestamp
+			return action
+		}
+}
 
 ; https://www.autohotkey.com/boards/viewtopic.php?t=33925
 ; Function to disabled keyboard & mouse
@@ -171,3 +203,8 @@ hk(keyboard:=0, mouse:=0, message:="", timeout:=3) {
    Progress, Off
    Return
 }
+return
+
+F5::ExitApp
+
+
