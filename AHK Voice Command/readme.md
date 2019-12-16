@@ -5,6 +5,7 @@ So before for this to work you need to set up your IFTTT to push a note to PushB
 
 ![alt text](setup1.png)
 ![alt text](setup2.png)
+
 Here are the list of commands already made, you just need to push a note with proper syntax. You can make your own command too !
 
 # List of Commands:
