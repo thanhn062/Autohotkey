@@ -36,7 +36,7 @@ if not A_IsAdmin
    ExitApp
 }
 
-token = o.YUPl30LQrLl3xo5qAABMokwvAEVUtQze
+token = 00000000000000000000
 FileDelete, output.txt
 runonce := true
 
