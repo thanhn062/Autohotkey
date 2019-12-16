@@ -1,7 +1,15 @@
 # Autohotkey Voice Command
 ![alt text](icon.png)
 
-So before for this to work you need to set up your IFTTT to push a note to PushBullet.
+
+This is a script to listen for new messages in Push Bullet via API.
+When it notice a new message, and the message syntax for the command is valid, it will execute the action on your PC.
+
+Here is the flow of the program:
+
+Google Home / Alexa > IFTTT > Push Bullet > AHKVC
+
+So for this to work you need to set up your IFTTT to push a note to PushBullet and AHKVC will do the rest.
 
 ![alt text](setup1.png)
 ![alt text](setup2.png)
