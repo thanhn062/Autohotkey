@@ -8,3 +8,4 @@ A collection of my ahk scripts.
   - Mapping Auto Cast - A macro with picture setting
   - Ragindex - a database that provide informations of mobs & items
 * RO Config Editor.ahk - provide a GUI to edit .conf file
+* Autohotkey Voice Command - Control your pc with google home / alexa
