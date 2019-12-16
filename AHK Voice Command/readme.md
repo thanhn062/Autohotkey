@@ -15,6 +15,7 @@ So for this to work you need to set up your IFTTT to push a note to PushBullet a
 ![alt text](setup2.png)
 
 Here are the list of commands already made, you just need to push a note with proper syntax. You can make your own command too !
+Just add more commands into the existing script and you can basically use your voice to do ANYTHING on your PC
 
 # List of Commands:
 * shutdown
