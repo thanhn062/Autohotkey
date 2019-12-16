@@ -26,7 +26,7 @@ Here are the list of commands already made, you just need to push a note with pr
 * lockinput
   - On ( lockinput|on  )
   - Off ( lockinput|off )
-* open|file
+* open|`<speech>`
   - So the file path need to be set inside the script and when you say for example you set the phrase to be "Hey google, open google" on IFTTT then it will push the note "open|google" and in .ahk script you will need to code > If it matches the keyword, it will open a file path that is linked with the key phrase !
 * append|`<speech>`
   - So this is for taking quick note, whenever you say "append $" it will append into the note.txt
