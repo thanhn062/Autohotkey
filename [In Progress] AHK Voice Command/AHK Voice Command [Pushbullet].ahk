@@ -10,33 +10,19 @@
 ;==============================
 ;==             Manual
 ;==============================
-;~ TODO OPEN <SPEECH>
 ;== -Commands:
-;==     + Main:
-;==         X- shutdown
-;==         X- logout
-;==         X- hibernate
-;==         X- sleep
-;==         X- restart
-;==
-;==     + Monitor:
-;==         X- monitor_off
-;==
-;==     + InputLock
-;==         X- lockinput / unlockinput
-;==
-;==     + File
-;==         X- open:<speech>
-;==         X- append:<path>
-;==
-;==     + Notification
-;==         X- msgbox:<text>
-;==         X- noti:<text>
-;==
-;==     +Voice Type
-;==         X speech2text
-;==		+ Keyboard
-;==			- send|
+;==         - shutdown                       - shut down computer
+;==         - logout                            - log out of user
+;==         - hibernate                       - put pc into hibernation
+;==         - sleep                              - sleep pc
+;==         - restart                            - restart pc
+;==         - monitor_off                    - turn off monitor
+;==         - lockinput|<on/off>        - lock / unlock key & mosue input
+;==         - open|<file name>          - example: "hey google open homework"
+;==         - append|<text>               -
+;==         - msgbox|<text>               -
+;==         - speech2text|<text>        -
+;==         - send|<key>                    -
 ;==============================
 ;~ SendMessage 0x112, 0xF140, 0, , Program Manager  ; Start screensaver
 ;~ SendMessage 0x112, 0xF170, 2, , Program Manager  ; Monitor off
@@ -53,93 +39,93 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
    ;~ ExitApp
 ;~ }
 token = o.YUPl30LQrLl3xo5qAABMokwvAEVUtQze
-time = 0
 FileDelete, output.txt
-SetTimer, PushBullet, 1000  ; Set timer for script to check one the command folder everything 500ms/ half a seconds (you can change this)
+runonce := true
+
+SetTimer, PushBullet, 850  ; Set timer for script to check one the command folder everything 500ms/ half a seconds (you can change this)
 return
 
 
 PushBullet:
+action =
 action := getPush()
-if (action)
-{
-	IfInString, action, message box
-	{
-		pos := RegExMatch(action, "box(.*)", msg)
-		StringTrimLeft, msg, msg, 4
-		MsgBox % msg
-	}
-
-	/*
-   StringSplit, action_, action, |													; Split action parameters
-   ; VOICE
-   if (action_1 = "speech2text")                                                ; [SPEECH2TEXT]
+if (action) {
+   if (runonce) ; make sure it doesn't run previous command on the first run
+   {
+      runonce := false
+      return
+   }
+   StringSplit, action_, action, |												        	; Split action parameters
+   
+   if (action_1 = "speech2text")                                                       ; [SPEECH2TEXT]
       Send %action_2%
-   ;    FILE
-   else if (action_1 = "open")                                                  ; [OPEN] <speech >
+   else if (action_1 = "msgbox")
+      MsgBox % action_2
+   else if (action_1 = "open")                                                           ; [OPEN] <speech >
       Run, %action_2%
-   else if (action_1 = "append")                                            ; [APPEND] file (append|<content>)
+   else if (action_1 = "append")                                                       ; [APPEND] file (append|<content>)
       FileAppend,  %action_2%`r`n, text.txt
-   ;    MAIN
    else if (action_1 = "shutdown")                                                   ; [SHUTDOWN] (force)
       Shutdown, 8
-   else if (action_1 = "monitor_OFF")                                      ; [MONITOR_OFF]
+   else if (action_1 = "monitor_off")                                             ; [MONITOR_OFF]
       SendMessage 0x112, 0xF170, 2, , Program Manager
-   else if (action_1 = "logoff")                                                 ; [LOGOFF] user (close all data)
+   else if (action_1 = "logoff")                                                        ; [LOGOFF] user (close all data)
    {
       Shutdown, 0
-      SendMessage 0x112, 0xF170, 2, , Program Manager ; turn off screen
+      SendMessage 0x112, 0xF170, 2, , Program Manager           ; turn off screen
    }
    else if (action_1 = "lock") 
    {                                                  
-      Run rundll32.exe user32.dll`,LockWorkStation            ; [LOCK] user (keep all data)
-      Sleep 1000                                                                       ; Wait 1 second,
-      SendMessage 0x112, 0xF170, 2, , Program Manager  ; turn off screen
+      Run rundll32.exe user32.dll`,LockWorkStation                    ; [LOCK] user (keep all data)
+      Sleep 1000                                                                              ; Wait 1 second,
+      SendMessage 0x112, 0xF170, 2, , Program Manager        ; turn off screen
    }
-   else if (action_1 = "restart")                                                 ; [RESTART] computer
+   else if (action_1 = "restart")                                                   ; [RESTART] computer
       Shutdown, 2
    
 ; Parameter #1: Pass 1 instead of 0 to hibernate rather than suspend.
 ; Parameter #2: Pass 1 instead of 0 to suspend immediately rather than asking each application for permission.
 ; Parameter #3: Pass 1 instead of 0 to disable all wake events.
-   
    else if (action_1 = "sleep")                                                  ; [SLEEP] computer
       DllCall("PowrProf\SetSuspendState", "int", 0, "int", 1, "int", 0)
    else if (action_1 = "hibernate")                                            ; [HIBERNATE] computer
       DllCall("PowrProf\SetSuspendState", "int", 1, "int", 0, "int", 0)
    ;    INPUT 
-   else if (action_1 = "lockinput_ON")                                      ; [INPUTLOCK_ON]
-      hk(1,1,"")
-   else if (action_1 = "lockinput_OFF")                                      ;[INPUTLOCK_OFF]
+   else if (action_1 = "lockinput")
    {
-      Loop
+      if (action_2 = "on")
+         hk(1,1,"")
+      else
       {
-         BlockInput, Off
-         InputBox, password, PIN Code, Input PIN code to unlock input,HIDE, 100, 100
-         If (password = 789521475369)
+         Loop
          {
-            hk(0,0,"")
-            break
+            BlockInput, Off
+            InputBox, password, PIN Code, Input PIN code to unlock input,HIDE, 100, 100
+            If (password = 789521475369)
+            {
+               hk(0,0,"")
+               break
+            }
          }
       }
+   }
    }
    else if (action_1 = "send")
       Send, {%action_2%}
       
-}
-*/
-}
 return
 
 ; ====== FUNCTIONS ========
 getPush() {
-	global token, time
+	global token, prev_time, prev_action
 	; Run REQUEST curl for latest message
 		Run, %comspec% /c curl -u %token%: https://api.pushbullet.com/v2/pushes?limit=1 -o output.txt,,hide
 		IfExist, output.txt
 			while (!output)
 				FileReadLine, output, output.txt, 1									; Make sure the variable is loaded into var
-		FileDelete, output.txt																; Delete 
+		FileDelete, output.txt		        ; Delete 
+        if (!output)
+         return
 		pos := RegExMatch(output, "modified(.*)type", modified)	; RegExMatch to look for timestamp
 		StringTrimRight, modified, modified, 6									; Clean up the variable
 		StringTrimLeft, modified, modified, 11
@@ -147,14 +133,25 @@ getPush() {
 		pos := RegExMatch(output, "body(.*)}]", action)					; RegExMatch to look for message content
 		StringTrimRight, action, action, 3											; Clean up the variable
 		StringTrimLeft, action, action, 7
-		
-		if time = 0
-			time := modified
-		else if (time != modified)															; If timestamp do NOT match
-		{
-			time := modified																	; Update latest timestamp
-			return action
-		}
+		;~ MsgBox "%action%"`n"%modified%"`n"%prev_action%"`n"%output%"
+      
+      if (!prev_time) ; set initial timestamp
+      {
+         prev_time := modified
+         return
+      }
+      ; If it's the same action with same time stamp > return
+      If (prev_action == action)
+      {
+         if (prev_time == modified)
+            return
+      }
+      else
+      {
+         prev_action := action
+         prev_time := modified
+         return action
+      }
 }
 
 ; https://www.autohotkey.com/boards/viewtopic.php?t=33925
@@ -204,7 +201,7 @@ hk(keyboard:=0, mouse:=0, message:="", timeout:=3) {
    Return
 }
 return
-
+;Emergency Exit
 F5::ExitApp
 
 
