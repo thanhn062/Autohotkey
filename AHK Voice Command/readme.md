@@ -24,7 +24,7 @@ Just add more commands into the existing script and you can basically use your v
 * sleep
 * restart
 * monitor_off - turn off your monitor
-* lockinput
+* lockinput - disabled keyboard and mouse, when unlock needs to type PIN code
   - On ( lockinput|on  )
   - Off ( lockinput|off )
 * open|`<speech>`
