@@ -32,7 +32,7 @@ Just add more commands into the existing script and you can basically use your v
 * append|`<speech>`
   - So this is for taking quick note, whenever you say "append $" it will append into the note.txt
 * msgbox|`<speech>`
-* speech2text|<speech>
+* speech2text|`<speech>`
   - Convert speech to text
 * send|`<speech>`
   - Send a button, e.g: "Hey google, send space"
