@@ -38,21 +38,17 @@ if not A_IsAdmin
 
 token = 00000000000000000000
 FileDelete, output.txt
-runonce := true
-
 SetTimer, PushBullet, 850  ; Set timer for script to check one the command folder everything 500ms/ half a seconds (you can change this)
 return
 
 
 PushBullet:
 action =
+action_0 =
+action_1 =
+action_2 =
 action := getPush()
 if (action) {
-   if (runonce) ; make sure it doesn't run previous command on the first run
-   {
-      runonce := false
-      return
-   }
    StringSplit, action_, action, |												        	; Split action parameters
 
    if (action_1 = "speech2text")                                                       ; [SPEECH2TEXT]
@@ -107,10 +103,9 @@ if (action) {
          }
       }
    }
-   }
    else if (action_1 = "send")
       Send, {%action_2%}
-      
+}
 return
 
 ; ====== FUNCTIONS ========
@@ -138,13 +133,8 @@ getPush() {
          prev_time := modified
          return
       }
-      ; If it's the same action with same time stamp > return
-      If (prev_action == action)
-      {
-         if (prev_time == modified)
-            return
-      }
-      else
+      ; If it's the timetamp is newer than the last
+      if (prev_time < modified)
       {
          prev_action := action
          prev_time := modified
