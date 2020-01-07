@@ -94,7 +94,7 @@ if (action) {
          Loop
          {
             BlockInput, Off
-            InputBox, password, PIN Code, Input PIN code to unlock input`nDefault is blank, just enter,HIDE, 100, 100
+            InputBox, password, PIN Code, Input PIN code to unlock input`nDefault is blank`, just enter,HIDE, 100, 100
             If (password = "")
             {
                hk(0,0,"")
